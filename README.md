@@ -1,0 +1,1 @@
+# Shopify_WG_Petershof_Theme-Minimalista_20250929
