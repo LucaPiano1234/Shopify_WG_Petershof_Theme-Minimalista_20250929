@@ -635,7 +635,7 @@
         "swipe_on_mobile": false,
         "card_heading_size": "h4",
         "padding_top": "m",
-        "padding_bottom": "m"
+        "padding_bottom": "l"
       }
     },
     "lookbook_wN7AnL": {
@@ -694,10 +694,10 @@
         "heading": "",
         "heading_size": "h2",
         "full_width": false,
-        "adapt_width": false,
+        "adapt_width": true,
         "adapt_height": false,
         "margin_top": "m",
-        "margin_bottom": "no-indent"
+        "margin_bottom": "m"
       }
     },
     "rich_text_pWEMWh": {
