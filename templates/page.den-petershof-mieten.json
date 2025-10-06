@@ -410,7 +410,7 @@
           "settings": {
             "icon": "pepper",
             "heading": "",
-            "text": "<p><strong>Küche</strong></p><ul><li>Voll ausgestattete Küche</li><li>Geschirrspülmaschine</li></ul>",
+            "text": "<p><strong>Küche</strong></p><ul><li>Voll ausgestattete Küche</li><li>Geschirrspülmaschine</li><li>Thermomix</li><li>Kaffeemaschine</li><li>KitchenAid </li></ul>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
