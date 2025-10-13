@@ -1,1 +1,1065 @@
-{"sections":{"image_banner_mR4e3X":{"type":"image-banner","disabled":true,"name":"t:sections.image-banner.presets.name","settings":{"full_width":true,"color_scheme":"background-3","image":"shopify:\/\/shop_images\/WeingutPetershof199.jpg","image_ratio":"16\/9","opacity_overlay":0.5,"subheading":"Wo Rheinhessen fast ein bisschen wie Neuseeland aussieht.","heading":"Some header for your collection","heading_size":"h3","text_information":"<p>Wer einmal oben auf unserem Hausberg dem “Kippel” steht und ins Tal schaut, versteht sofort, warum wir diesen Ort so lieben. Seit über 350 Jahren und 13 Generationen ist unser Weingut in Familienhand. Im Jahr 2010 haben wir, Stefan und Johanna Kuhn, begonnen die Geschichte des PETERSHOFS zu schreiben - mit der Vision das altehrwürdige Weingut an die Gegebenheiten der neuen Zeit anzupassen.<\/p><p>Wir verbinden Weinbautradition mit modernen Ideen, woraus frische und spannende Weine inspiriert aus aller Welt entstehen.<\/p><p>Lernen Sie unsere Weine mit dem <strong>Willkommenspaket<\/strong> kennen und erleben Sie die Wärme des Mainzer Beckens mit einer kühlen Brise vom Kippel!<\/p>","text_align":"left","text_width":"small","additional_text":"","show_view_all":true,"button_label":"Zum Petershof Willkommenspaket","button_style":"secondary","button_link":"","margin_top":"no-indent","margin_bottom":"no-indent"}},"image_with_text_ydde6q":{"type":"image-with-text","settings":{"color_scheme":"background-3","subheading":"Wo Rheinhessen fast ein bisschen wie Neuseeland aussieht.","heading":"Willkommen auf dem Petershof!","heading_size":"h2","text":"<p>Wer einmal oben auf unserem Hausberg dem “Kippel” steht und ins Tal schaut, versteht sofort, warum wir diesen Ort so lieben. Seit über 350 Jahren und 13 Generationen ist unser Weingut in Familienhand. Im Jahr 2010 haben wir, Stefan und Johanna Kuhn, begonnen die Geschichte des PETERSHOFS zu schreiben - mit der Vision das altehrwürdige Weingut an die Gegebenheiten der neuen Zeit anzupassen.<\/p><p>Wir verbinden Weinbautradition mit modernen Ideen, woraus frische und spannende Weine inspiriert aus aller Welt entstehen.<\/p><p>Lernen Sie unsere Weine mit dem <strong>Willkommenspaket<\/strong> kennen und erleben Sie die Wärme des Mainzer Beckens mit einer kühlen Brise vom Kippel!<\/p>","show_button":true,"button_label":"Zum Petershof Willkommenspaket","button_link":"shopify:\/\/products\/weingut-petershof-wilkommenspaket","button_style":"secondary","text_align":"center","text_width":"medium","image":"shopify:\/\/shop_images\/WeingutPetershof199.jpg","height":"adapt","position":"container","layout":"text_last","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"xs","padding_bottom":"xs"}},"gallery_with_text_QwpBYE":{"type":"gallery-with-text","blocks":{"featured_gallery_exghdW":{"type":"featured_gallery","settings":{"image":"shopify:\/\/shop_images\/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg","show_video":false,"overlay_opacity":0.2,"text_color_scheme":"","subheading":"Wein, Musik und Genuss am Weingut","title":"Save the Date: PETERSHOF Hoffest am 27. April","heading_size":"h1","text":"For example, a description for your collection, product or other","show_button":true,"button_label":"Some label","button_link":"","button_style":"secondary","card_active":false}}},"block_order":["featured_gallery_exghdW"],"disabled":true,"settings":{"subheading":"","heading":"","heading_size":"h2","aspect_ratio":"adapt","full_width":true,"padding_top":"m","padding_bottom":"m"}},"carousel_9fM8zF":{"type":"carousel","blocks":{"carousel_slide_frXQEE":{"type":"carousel_slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/WG_Petershof_Riesling_R.png","show_video":false,"overlay_opacity":0.5,"text_color_scheme":"","heading":"Ausgezeichnete Weine","link":"shopify:\/\/collections\/alle-weine"}},"carousel_slide_GNfBKV":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg","show_video":false,"overlay_opacity":0.2,"text_color_scheme":"background-3","heading":"","link":"shopify:\/\/pages\/kontakt"}},"carousel_slide_eGwRND":{"type":"carousel_slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Petershof__Y1A7460.jpg","show_video":false,"overlay_opacity":0.5,"text_color_scheme":"","heading":"Ihre Eventlocation","link":"shopify:\/\/pages\/petershof-mieten"}}},"block_order":["carousel_slide_frXQEE","carousel_slide_GNfBKV","carousel_slide_eGwRND"],"disabled":true,"settings":{"subheading":"Wein, Musik und Genuss am Weingut⎥Sichern Sie sich Ihren Platz! Melden Sie sich bis zum 24. April bei uns an!","heading":"Save the Date: PETERSHOF Hoffest am 27. April","heading_size":"h1","columns":1,"image_ratio":"landscape","button_show":true,"button_label":"Sichern Sie sich Ihren Platz","button_link":"shopify:\/\/pages\/kontakt","padding_top":"m","padding_bottom":"no-indent"}},"image_banner_6qDjpH":{"type":"image-banner","disabled":true,"custom_css":["h2 {font-size: 6rem; color: white;}","@media screen and (max-width: 750px) {h2 {font-size: 4rem; color: black; }}"],"settings":{"full_width":true,"color_scheme":"background-1","image":"shopify:\/\/shop_images\/WeingutPetershof219.jpg","image_ratio":"21\/9","opacity_overlay":0.2,"subheading":"Familienweingut in 13. Generation","heading":"<em>„Was du draus machst“<\/em>","heading_size":"h2","text_information":"","text_align":"left","text_width":"large","additional_text":"","additional_image":"shopify:\/\/shop_images\/WG_Petershof_Praemierungen_1_Kopie.png","show_view_all":true,"button_label":"Entdecke unsere Weine","button_style":"primary","button_link":"shopify:\/\/collections\/alle-weine","margin_top":"no-indent","margin_bottom":"xl"}},"custom_liquid_APwwEW":{"type":"custom-liquid","disabled":true,"custom_css":[],"settings":{"custom_liquid":"<a href=\"https:\/\/weingut-frank-schmidt.de\/pages\/events\">\n  <video class=\"video-desktop\" width=\"70%\" display=\"block\" margin=\"0 auto\" height=\"auto\" autoplay muted loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/3e25626c0fcb40aa8cd549a3e5ee1619.mp4\">\n  <\/video>\n  <video class=\"video-mobile\" width=\"100%\" height=\"auto\" autoplay muted loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6fd10becc4f949bcbb2d8245c561e6ec.mp4\">\n  <\/video>\n<\/a>\n\n<style>\n  .video-desktop {\n    display: none;\n  }\n\n  .video-mobile {\n    display: block;\n  }\n\n  @media (min-width: 768px) {\n    .video-desktop {\n      display: block;\n    }\n\n    .video-mobile {\n      display: none;\n    }\n  }\n<\/style>"}},"multicolumn":{"type":"multicolumn","blocks":{"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/P_Logo-03.png","icon":"leaf_2","heading":"So schmeckt der Petershof","text":"<p>Tradition trifft Mut zur Moderne im Herzen von Rheinhessen.<\/p>","show_button":true,"button_label":"Alle Weine","button_link":"shopify:\/\/collections\/alle-weine","button_style":"tertiary","full_link":true,"additional_text_1":"","additional_text_2":""}},"column-2":{"type":"column","settings":{"icon":"calendar","heading":"Besuchen Sie den Petershof","text":"<p>Regelmäßige Veranstaltungen wie das alljährliche Hoffest und Weinverkostungen<\/p>","show_button":true,"button_label":"Alle Termine","button_link":"shopify:\/\/pages\/events","button_style":"simple","full_link":false,"additional_text_1":"","additional_text_2":""}},"column-3":{"type":"column","settings":{"icon":"map_pin","heading":"Mieten Sie den Petershof","text":"<p>Bei uns mieten Sie keine Zimmer, bei uns mieten Sie sogar das ganze Weingut!<\/p>","show_button":true,"button_label":"Mehr Informationen","button_link":"shopify:\/\/pages\/petershof-mieten","button_style":"simple","full_link":false,"additional_text_1":"","additional_text_2":""}}},"block_order":["column-1","column-2","column-3"],"settings":{"section_type":"solid","color_scheme":"background-2","multicolumn_to_show":3,"heading":"","heading_size":"h3","image_width":"small","image_ratio":"square","object_fit":"contain","swipe_on_mobile":true,"card_heading_size":"h5","padding_top":"m","padding_bottom":"m"}},"media_slideshow_LRhnC7":{"type":"media-slideshow","blocks":{"media_slide_9HgXJy":{"type":"media_slide","settings":{"text_color_scheme":"background-3","overlay_opacity":0,"enable_hover":false,"show_video":true,"video_url":"https:\/\/www.youtube.com\/watch?v=LoXpZdgZW60","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"","heading":"Petershof | Weingut","heading_size":"h1","description":"","additional_image_width":150,"position_content":"bottom","show_button":false,"button_label":"Some label","button_link":"","button_style":"secondary","full_link":false}}},"block_order":["media_slide_9HgXJy"],"settings":{"header_overlay":true,"layout":"full","full":true,"gap":false,"border_radius":false,"aspect_ratio":"16\/9","bullets_color_scheme":"","position_bullets":"right","bullets_background":false,"enable_navigation":false,"navigation_color_scheme":"","navigation_position":"sides","padding_top":"no-indent","padding_bottom":"m"}},"media-slideshow":{"type":"media-slideshow","blocks":{"template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-0":{"type":"media_slide","settings":{"text_color_scheme":"background-1","image":"shopify:\/\/shop_images\/4.png","overlay_opacity":0,"enable_hover":true,"show_video":false,"video_url":"","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"Petershof","heading":"Der neue Jahrgang","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":true,"button_label":"Some label","button_link":"shopify:\/\/collections\/alle-weine","button_style":"primary","full_link":true}},"template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-1":{"type":"media_slide","settings":{"text_color_scheme":"light","image":"shopify:\/\/shop_images\/WeingutPetershof015.jpg","overlay_opacity":0.5,"enable_hover":true,"show_video":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","autoplay_video":false,"muted_video":false,"loop_video":false,"show_icon_play":false,"show_icon_sound":false,"description_video":"","subheading":"Petershof","heading":"Willkommen auf dem Petershof","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":true,"button_label":"Über uns","button_link":"shopify:\/\/pages\/uber-uns","button_style":"secondary","full_link":true}},"template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-2":{"type":"media_slide","settings":{"text_color_scheme":"light","overlay_opacity":0,"enable_hover":true,"show_video":true,"video_url":"https:\/\/vimeo.com\/947050913\/34a0f1fcd4?share=copy","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":false,"show_icon_sound":false,"description_video":"","subheading":"","heading":"","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":false,"button_label":"Some label","button_link":"","button_style":"secondary","full_link":true}}},"block_order":["template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-0","template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-1","template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-2"],"disabled":true,"settings":{"header_overlay":false,"layout":"grid","full":true,"gap":false,"border_radius":false,"aspect_ratio":"full","bullets_color_scheme":"light","position_bullets":"right","bullets_background":false,"enable_navigation":false,"navigation_color_scheme":"","navigation_position":"sides","padding_top":"no-indent","padding_bottom":"no-indent"}},"image-with-text":{"type":"image-with-text","settings":{"color_scheme":"background-1","subheading":"Petershof | Weingut","heading":"Sechs Flaschen. Sechs Persönlichkeiten. Ein Paket voller Lieblingsmomente.","heading_size":"h2","text":"<p>Sie möchten auf den Geschmack des Petershofs kommen? Dann ist unser <strong>Willkommenspaket<\/strong> genau das Richtige. Hier kommen sechs Charakterköpfe aus Rheinhessen direkt zu Ihnen nach Hause – wild, charmant, fruchtig, ehrlich. Jeder anders, jeder ein Erlebnis.<\/p>","show_button":true,"button_label":"Das Petershof Willkommenspaket","button_link":"shopify:\/\/products\/weingut-petershof-wilkommenspaket","button_style":"primary","text_align":"center","text_width":"medium","image":"shopify:\/\/shop_images\/Weingut_Petershof_Wilkommenspaket_Banner_home.webp","height":"adapt","position":"outside","layout":"text_last","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"no-indent","padding_bottom":"no-indent"}},"popular-products":{"type":"popular-products","custom_css":[".card-information__group {align-items: center;}"],"settings":{"subheading":"Petershof | Weingut","heading":"Unsere beliebtesten Weine","heading_size":"h2","product_list":["spatburgunder","grauburgunder","probierpaket-6er-unsere-besten","sauvignon-blanc-1"],"products_to_show":4,"image_ratio":"landscape","image_fit":"contain","show_secondary_image":true,"show_vendor":false,"show_collection":false,"show_desc":false,"columns_mobile":"2","button_show":true,"button_label":"Alle Weine","button_style":"primary","button_link":"shopify:\/\/collections\/alle-weine","padding_top":"m","padding_bottom":"m"}},"image_with_text_hhzLFR":{"type":"image-with-text","custom_css":[],"settings":{"color_scheme":"background-1","subheading":"","heading":"Vielfach ausgezeichnet!","heading_size":"h2","text":"<p>Unsere Weine wurden mit höchsten Ehrungen ausgezeichnet, darunter die <strong>AWC Vienna<\/strong>, die <strong>Gold Asia Wine Trophy<\/strong> und die <strong>Goldmedaille beim Mundus Vini<\/strong> – ein Beweis für ihre herausragende Qualität.<\/p>","show_button":true,"button_label":"Entdecken Sie unsere prämierten Weine","button_link":"shopify:\/\/collections\/pramierte-weine","button_style":"primary","text_align":"center","text_width":"medium","image":"shopify:\/\/shop_images\/WG_Petershof_Praemierungen_1.png","height":"small","position":"container","layout":"image_last","margin_top":"no-indent","margin_bottom":"xs","padding_top":"m","padding_bottom":"m"}},"image_banner_6ddpQJ":{"type":"image-banner","settings":{"full_width":true,"color_scheme":"","image":"shopify:\/\/shop_images\/WeingutPetershof054.jpg","image_ratio":"adapt","opacity_overlay":0,"subheading":"","heading":"","heading_size":"h3","text_information":"","text_align":"left","text_width":"full","additional_text":"","additional_image":"shopify:\/\/shop_images\/P_Logo-03.png","show_view_all":false,"button_label":"Shop now","button_style":"primary","button_link":"","margin_top":"no-indent","margin_bottom":"no-indent"}},"categories_list_gUTcLP":{"type":"categories-list","blocks":{"collection_item_EhgK3A":{"type":"collection_item","settings":{"collection":"alle-weine","color_scheme":"background-2","color_scheme_2":"","image":"shopify:\/\/shop_images\/Spaetburgunder.png","show_video":false,"overlay_opacity":0.4}},"collection_item_DBVCU9":{"type":"collection_item","settings":{"collection":"weissweine","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_km8FbG":{"type":"collection_item","settings":{"collection":"rotweine","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_kQYxYN":{"type":"collection_item","settings":{"collection":"buchstabenlinie","color_scheme":"background-2","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_6Pkcpd":{"type":"collection_item","settings":{"collection":"weinpakete-1","color_scheme":"","color_scheme_2":"","image":"shopify:\/\/shop_images\/Weingut_Petershof_Kennenlernpaket_kleine_Flaschen_fuer_Homepage.png","image_2":"shopify:\/\/shop_images\/Weingut_Petershof_Kennenlernpaket_kleine_Flaschen_fuer_Homepage.png","show_video":false,"overlay_opacity":0.4}},"collection_item_dCPzB7":{"type":"collection_item","disabled":true,"settings":{"collection":"rose","color_scheme":"background-2","color_scheme_2":"background-4","show_video":false,"overlay_opacity":0.4}},"collection_item_KXDgki":{"type":"collection_item","disabled":true,"settings":{"collection":"spirituosen","color_scheme":"background-2","color_scheme_2":"background-4","show_video":false,"overlay_opacity":0.4}},"collection_item_cnEDjx":{"type":"collection_item","disabled":true,"settings":{"collection":"weinpakete-1","color_scheme":"background-2","color_scheme_2":"background-4","show_video":false,"overlay_opacity":0.4}},"collection_item_DjViy8":{"type":"collection_item","disabled":true,"settings":{"collection":"perlwein","color_scheme":"background-2","color_scheme_2":"background-4","show_video":false,"overlay_opacity":0.4}},"collection_item_Nznc7J":{"type":"collection_item","disabled":true,"settings":{"collection":"","color_scheme":"background-2","color_scheme_2":"background-4","show_video":false,"overlay_opacity":0.4}}},"block_order":["collection_item_EhgK3A","collection_item_DBVCU9","collection_item_km8FbG","collection_item_kQYxYN","collection_item_6Pkcpd","collection_item_dCPzB7","collection_item_KXDgki","collection_item_cnEDjx","collection_item_DjViy8","collection_item_Nznc7J"],"custom_css":[".categories-list__image img,.categories-list__image svg.placeholder-svg {width: 100%; height: 100%; object-fit: scale-down; object-position: right;}"],"settings":{"subheading":"Petershof | Weingut","heading":"Unser Sortiment","heading_size":"h3","layout":"grid","collections_to_show":4,"show_button":true,"button_label":"Alle Kollektionen","button_link":"shopify:\/\/collections","padding_top":"m","padding_bottom":"m"}},"image_with_text_t6nk69":{"type":"image-with-text","disabled":true,"settings":{"color_scheme":"background-1","subheading":"Petershof | Events","heading":"Hoffest, Weinverkostungen und vieles mehr","heading_size":"h2","text":"<p>Mit Unterstützung von Familie und Freunden veranstalten wir regelmäßig wiederkehrende Events wie das alljährliche Hoffest, die Kundenweinlese und bieten auch andere Arrangements, wie Weinverkostungen und vieles mehr. Gerne auch für Sie! Sprechen Sie uns an und teilen Sie gerne Ihre Ideen und Wünsche mit uns.<\/p>","show_button":true,"button_label":"Mehr über uns","button_link":"shopify:\/\/pages\/uber-uns","button_style":"tertiary","text_align":"center","text_width":"medium","image":"shopify:\/\/shop_images\/Petershof-event.jpg","height":"adapt","position":"container","layout":"text_last","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"m","padding_bottom":"m"}},"custom_liquid_neqKNa":{"type":"custom-liquid","settings":{"custom_liquid":""}},"media-slideshow-3":{"type":"media-slideshow","blocks":{"block_1":{"type":"media_slide","settings":{"text_color_scheme":"light","image":"shopify:\/\/shop_images\/5Cabernet-Sauvignon.png","overlay_opacity":0.5,"enable_hover":true,"show_video":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"Petershof | Weingut","heading":"So schmeckt der Petershof","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":true,"button_label":"Alle Weine","button_link":"shopify:\/\/collections\/alle-weine","button_style":"secondary","full_link":true}},"media_slide_nkj666":{"type":"media_slide","settings":{"text_color_scheme":"light","image":"shopify:\/\/shop_images\/WeingutPetershof209.jpg","overlay_opacity":0.5,"enable_hover":true,"show_video":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"Petershof | Events","heading":"Sie sind herzlich eingeladen","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":true,"button_label":"Alle Termine","button_link":"shopify:\/\/pages\/events","button_style":"secondary","full_link":true}},"media_slide_Nne9dG":{"type":"media_slide","settings":{"text_color_scheme":"light","image":"shopify:\/\/shop_images\/Weinproben_und_Feiern_OLE5514_V01_1.jpg","overlay_opacity":0.5,"enable_hover":true,"show_video":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"Petershof | Location","heading":"Mit Freunden, der Familie oder Kolleg*innen","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":true,"button_label":"Den Petershof mieten","button_link":"shopify:\/\/pages\/location","button_style":"secondary","full_link":true}}},"block_order":["block_1","media_slide_nkj666","media_slide_Nne9dG"],"settings":{"header_overlay":false,"layout":"grid","full":true,"gap":true,"border_radius":false,"aspect_ratio":"full","bullets_color_scheme":"light","position_bullets":"right","bullets_background":false,"enable_navigation":false,"navigation_color_scheme":"","navigation_position":"sides","padding_top":"no-indent","padding_bottom":"no-indent"}},"brands_DYzE7p":{"type":"brands","blocks":{"column_rmjzTU":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/Logo-Frangel.png","image_width":90,"brand_link":"http:\/\/museumsschaenke-frangel.de\/"}},"column_qyrxeM":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/3_db1348e5-0c4a-4296-847e-923d469909c8.png","image_width":90,"brand_link":"https:\/\/habel-elf.com\/"}},"column_hLbJTV":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/2_c60bc740-aa72-4cfb-beb4-ffae80701524.png","image_width":90,"brand_link":"https:\/\/www.landgasthauszumkrug.de\/"}},"column_HtxfwW":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/4_cc76f48a-a92b-4e69-ba38-1fe393aee70a.png","image_width":90,"brand_link":"https:\/\/gasthaus-johanning.de\/"}},"column_LKmQ4b":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/6_725e0922-5790-4e61-ade4-db2b61a76bd5.png","image_width":90,"brand_link":"http:\/\/www.gaumencharmeur.de\/"}},"column_mBdPYQ":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/5_7711ec94-0803-49db-98a3-285b7514cbb7.png","image_width":90,"brand_link":"https:\/\/gasthaus-kesten.de\/"}},"column_bwMjPh":{"type":"column","settings":{"image_1":"shopify:\/\/shop_images\/Anja_Carnier_-_Logo_2.png","image_width":70,"brand_link":"https:\/\/www.hautnah-carnier.de\/"}}},"block_order":["column_rmjzTU","column_qyrxeM","column_hLbJTV","column_HtxfwW","column_LKmQ4b","column_mBdPYQ","column_bwMjPh"],"settings":{"color_scheme":"background-1","position_items":"center","layout":"simple","columns_per_row":9,"subheading":"Petershof | Weingut","heading":"Unsere Partner:","heading_size":"h2","show_button":false,"button_label":"","button_link":"","padding_top":"m","padding_bottom":"m"}},"newsletter_TDrkwe":{"type":"newsletter","disabled":true,"settings":{"align_content":"left","heading":"Möchten Sie in Zukunft über aktuelle Themen, Neuigkeiten und auch Sonderangebote informiert werden?","heading_size":"h2","newsletter_text":"Bleiben Sie mit uns in Kontakt","button_style":"primary","padding_top":"m","padding_bottom":"m"}},"media_slideshow_Dng8K8":{"type":"media-slideshow","blocks":{"media_slide_PHEtJd":{"type":"media_slide","settings":{"text_color_scheme":"","overlay_opacity":0.5,"enable_hover":true,"show_video":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"Subheading","heading":"Some heading","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":true,"button_label":"Some label","button_link":"","button_style":"secondary","full_link":true}},"media_slide_Ktejfr":{"type":"media_slide","settings":{"text_color_scheme":"background-3","overlay_opacity":0.5,"enable_hover":true,"show_video":false,"video":"shopify:\/\/files\/videos\/20241129_Wg_Petershof_Video_Weinlese_2024.mp4","video_url":"","autoplay_video":false,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"","heading":"","heading_size":"h3","description":"","additional_image_width":150,"position_content":"bottom","show_button":false,"button_label":"Some label","button_link":"","button_style":"secondary","full_link":true}}},"block_order":["media_slide_PHEtJd","media_slide_Ktejfr"],"disabled":true,"settings":{"header_overlay":true,"layout":"grid","full":true,"gap":false,"border_radius":false,"aspect_ratio":"full","bullets_color_scheme":"","position_bullets":"right","bullets_background":false,"enable_navigation":false,"navigation_color_scheme":"","navigation_position":"sides","padding_top":"no-indent","padding_bottom":"m"}}},"order":["image_banner_mR4e3X","image_with_text_ydde6q","gallery_with_text_QwpBYE","carousel_9fM8zF","image_banner_6qDjpH","custom_liquid_APwwEW","multicolumn","media_slideshow_LRhnC7","media-slideshow","image-with-text","popular-products","image_with_text_hhzLFR","image_banner_6ddpQJ","categories_list_gUTcLP","image_with_text_t6nk69","custom_liquid_neqKNa","media-slideshow-3","brands_DYzE7p","newsletter_TDrkwe","media_slideshow_Dng8K8"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_mR4e3X": {
+      "type": "image-banner",
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-3",
+        "image": "shopify://shop_images/WeingutPetershof199.jpg",
+        "image_ratio": "16/9",
+        "image_ratio_mobile": "recommended",
+        "opacity_overlay": 0.5,
+        "subheading": "Wo Rheinhessen fast ein bisschen wie Neuseeland aussieht.",
+        "heading": "Some header for your collection",
+        "heading_size": "h3",
+        "text_information": "<p>Wer einmal oben auf unserem Hausberg dem “Kippel” steht und ins Tal schaut, versteht sofort, warum wir diesen Ort so lieben. Seit über 350 Jahren und 13 Generationen ist unser Weingut in Familienhand. Im Jahr 2010 haben wir, Stefan und Johanna Kuhn, begonnen die Geschichte des PETERSHOFS zu schreiben - mit der Vision das altehrwürdige Weingut an die Gegebenheiten der neuen Zeit anzupassen.</p><p>Wir verbinden Weinbautradition mit modernen Ideen, woraus frische und spannende Weine inspiriert aus aller Welt entstehen.</p><p>Lernen Sie unsere Weine mit dem <strong>Willkommenspaket</strong> kennen und erleben Sie die Wärme des Mainzer Beckens mit einer kühlen Brise vom Kippel!</p>",
+        "text_align": "left",
+        "text_width": "small",
+        "additional_text": "",
+        "show_view_all": true,
+        "button_label": "Zum Petershof Willkommenspaket",
+        "button_style": "secondary",
+        "button_link": "",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "image_with_text_ydde6q": {
+      "type": "image-with-text",
+      "settings": {
+        "color_scheme": "background-3",
+        "subheading": "Wo Rheinhessen fast ein bisschen wie Neuseeland aussieht.",
+        "heading": "Willkommen auf dem Petershof!",
+        "heading_size": "h2",
+        "text": "<p>Wer einmal oben auf unserem Hausberg dem “Kippel” steht und ins Tal schaut, versteht sofort, warum wir diesen Ort so lieben. Seit über 350 Jahren und 13 Generationen ist unser Weingut in Familienhand. Im Jahr 2010 haben wir, Stefan und Johanna Kuhn, begonnen die Geschichte des PETERSHOFS zu schreiben - mit der Vision das altehrwürdige Weingut an die Gegebenheiten der neuen Zeit anzupassen.</p><p>Wir verbinden Weinbautradition mit modernen Ideen, woraus frische und spannende Weine inspiriert aus aller Welt entstehen.</p><p>Lernen Sie unsere Weine mit dem <strong>Willkommenspaket</strong> kennen und erleben Sie die Wärme des Mainzer Beckens mit einer kühlen Brise vom Kippel!</p>",
+        "show_button": true,
+        "button_label": "Zum Petershof Willkommenspaket",
+        "button_link": "shopify://products/weingut-petershof-wilkommenspaket",
+        "button_style": "secondary",
+        "text_align": "center",
+        "text_width": "medium",
+        "image": "shopify://shop_images/WeingutPetershof199.jpg",
+        "autoplay_video": true,
+        "muted_video": true,
+        "loop_video": true,
+        "show_icon_play": false,
+        "show_icon_sound": false,
+        "autoplay_video_secondary": true,
+        "muted_video_secondary": true,
+        "loop_video_secondary": true,
+        "show_icon_play_secondary": false,
+        "show_icon_sound_secondary": false,
+        "height": "adapt",
+        "position": "container",
+        "layout": "text_last",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "xs",
+        "padding_bottom": "xs"
+      }
+    },
+    "gallery_with_text_QwpBYE": {
+      "type": "gallery-with-text",
+      "blocks": {
+        "featured_gallery_exghdW": {
+          "type": "featured_gallery",
+          "settings": {
+            "image": "shopify://shop_images/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg",
+            "show_video": false,
+            "overlay_opacity": 0.2,
+            "text_color_scheme": "",
+            "subheading": "Wein, Musik und Genuss am Weingut",
+            "title": "Save the Date: PETERSHOF Hoffest am 27. April",
+            "heading_size": "h1",
+            "text": "For example, a description for your collection, product or other",
+            "show_button": true,
+            "button_label": "Some label",
+            "button_link": "",
+            "button_style": "secondary",
+            "card_active": false
+          }
+        }
+      },
+      "block_order": [
+        "featured_gallery_exghdW"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "aspect_ratio": "adapt",
+        "full_width": true,
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "carousel_9fM8zF": {
+      "type": "carousel",
+      "blocks": {
+        "carousel_slide_frXQEE": {
+          "type": "carousel_slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/WG_Petershof_Riesling_R.png",
+            "show_video": false,
+            "overlay_opacity": 0.5,
+            "text_color_scheme": "",
+            "heading": "Ausgezeichnete Weine",
+            "link": "shopify://collections/alle-weine"
+          }
+        },
+        "carousel_slide_GNfBKV": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg",
+            "show_video": false,
+            "overlay_opacity": 0.2,
+            "text_color_scheme": "background-3",
+            "heading": "",
+            "link": "shopify://pages/kontakt"
+          }
+        },
+        "carousel_slide_eGwRND": {
+          "type": "carousel_slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Petershof__Y1A7460.jpg",
+            "show_video": false,
+            "overlay_opacity": 0.5,
+            "text_color_scheme": "",
+            "heading": "Ihre Eventlocation",
+            "link": "shopify://pages/petershof-mieten"
+          }
+        }
+      },
+      "block_order": [
+        "carousel_slide_frXQEE",
+        "carousel_slide_GNfBKV",
+        "carousel_slide_eGwRND"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Wein, Musik und Genuss am Weingut⎥Sichern Sie sich Ihren Platz! Melden Sie sich bis zum 24. April bei uns an!",
+        "heading": "Save the Date: PETERSHOF Hoffest am 27. April",
+        "heading_size": "h1",
+        "columns": 1,
+        "image_ratio": "landscape",
+        "button_show": true,
+        "button_label": "Sichern Sie sich Ihren Platz",
+        "button_link": "shopify://pages/kontakt",
+        "padding_top": "m",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "image_banner_6qDjpH": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-size: 6rem; color: white;}",
+        "@media screen and (max-width: 750px) {h2 {font-size: 4rem; color: black; }}"
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "image": "shopify://shop_images/WeingutPetershof219.jpg",
+        "image_ratio": "21/9",
+        "image_ratio_mobile": "recommended",
+        "opacity_overlay": 0.2,
+        "subheading": "Familienweingut in 13. Generation",
+        "heading": "<em>„Was du draus machst“</em>",
+        "heading_size": "h2",
+        "text_information": "",
+        "text_align": "left",
+        "text_width": "large",
+        "additional_text": "",
+        "additional_image": "shopify://shop_images/WG_Petershof_Praemierungen_1_Kopie.png",
+        "show_view_all": true,
+        "button_label": "Entdecke unsere Weine",
+        "button_style": "primary",
+        "button_link": "shopify://collections/alle-weine",
+        "margin_top": "no-indent",
+        "margin_bottom": "xl"
+      }
+    },
+    "custom_liquid_APwwEW": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<a href=\"https://weingut-frank-schmidt.de/pages/events\">\n  <video class=\"video-desktop\" width=\"70%\" display=\"block\" margin=\"0 auto\" height=\"auto\" autoplay muted loop>\n    <source src=\"https://cdn.shopify.com/videos/c/o/v/3e25626c0fcb40aa8cd549a3e5ee1619.mp4\">\n  </video>\n  <video class=\"video-mobile\" width=\"100%\" height=\"auto\" autoplay muted loop>\n    <source src=\"https://cdn.shopify.com/videos/c/o/v/6fd10becc4f949bcbb2d8245c561e6ec.mp4\">\n  </video>\n</a>\n\n<style>\n  .video-desktop {\n    display: none;\n  }\n\n  .video-mobile {\n    display: block;\n  }\n\n  @media (min-width: 768px) {\n    .video-desktop {\n      display: block;\n    }\n\n    .video-mobile {\n      display: none;\n    }\n  }\n</style>"
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/P_Logo-03.png",
+            "icon": "leaf_2",
+            "heading": "So schmeckt der Petershof",
+            "text": "<p>Tradition trifft Mut zur Moderne im Herzen von Rheinhessen.</p>",
+            "show_button": true,
+            "button_label": "Alle Weine",
+            "button_link": "shopify://collections/alle-weine",
+            "button_style": "tertiary",
+            "full_link": true,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "icon": "calendar",
+            "heading": "Besuchen Sie den Petershof",
+            "text": "<p>Regelmäßige Veranstaltungen wie das alljährliche Hoffest und Weinverkostungen</p>",
+            "show_button": true,
+            "button_label": "Alle Termine",
+            "button_link": "shopify://pages/events",
+            "button_style": "simple",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+            "icon": "map_pin",
+            "heading": "Mieten Sie den Petershof",
+            "text": "<p>Bei uns mieten Sie keine Zimmer, bei uns mieten Sie sogar das ganze Weingut!</p>",
+            "show_button": true,
+            "button_label": "Mehr Informationen",
+            "button_link": "shopify://pages/petershof-mieten",
+            "button_style": "simple",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3"
+      ],
+      "settings": {
+        "section_type": "solid",
+        "color_scheme": "background-2",
+        "multicolumn_to_show": 3,
+        "heading": "",
+        "heading_size": "h3",
+        "image_width": "small",
+        "image_ratio": "square",
+        "object_fit": "contain",
+        "swipe_on_mobile": true,
+        "card_heading_size": "h5",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "media_slideshow_LRhnC7": {
+      "type": "media-slideshow",
+      "blocks": {
+        "media_slide_9HgXJy": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "background-3",
+            "overlay_opacity": 0,
+            "enable_hover": false,
+            "show_video": true,
+            "video_url": "https://www.youtube.com/watch?v=LoXpZdgZW60",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "",
+            "heading": "Petershof | Weingut",
+            "heading_size": "h1",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": false,
+            "button_label": "Some label",
+            "button_link": "",
+            "button_style": "secondary",
+            "full_link": false
+          }
+        }
+      },
+      "block_order": [
+        "media_slide_9HgXJy"
+      ],
+      "settings": {
+        "header_overlay": true,
+        "layout": "full",
+        "full": true,
+        "gap": false,
+        "border_radius": false,
+        "aspect_ratio": "16/9",
+        "bullets_color_scheme": "",
+        "position_bullets": "right",
+        "bullets_background": false,
+        "enable_navigation": false,
+        "navigation_color_scheme": "",
+        "navigation_position": "sides",
+        "enable_loop": false,
+        "enable_autoplay": false,
+        "autoplay_delay": 2,
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    },
+    "media-slideshow": {
+      "type": "media-slideshow",
+      "blocks": {
+        "template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-0": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "background-1",
+            "image": "shopify://shop_images/4.png",
+            "overlay_opacity": 0,
+            "enable_hover": true,
+            "show_video": false,
+            "video_url": "",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "Petershof",
+            "heading": "Der neue Jahrgang",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": true,
+            "button_label": "Some label",
+            "button_link": "shopify://collections/alle-weine",
+            "button_style": "primary",
+            "full_link": true
+          }
+        },
+        "template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-1": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "light",
+            "image": "shopify://shop_images/WeingutPetershof015.jpg",
+            "overlay_opacity": 0.5,
+            "enable_hover": true,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": false,
+            "muted_video": false,
+            "loop_video": false,
+            "show_icon_play": false,
+            "show_icon_sound": false,
+            "description_video": "",
+            "subheading": "Petershof",
+            "heading": "Willkommen auf dem Petershof",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": true,
+            "button_label": "Über uns",
+            "button_link": "shopify://pages/uber-uns",
+            "button_style": "secondary",
+            "full_link": true
+          }
+        },
+        "template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-2": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "light",
+            "overlay_opacity": 0,
+            "enable_hover": true,
+            "show_video": true,
+            "video_url": "https://vimeo.com/947050913/34a0f1fcd4?share=copy",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": false,
+            "show_icon_sound": false,
+            "description_video": "",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": false,
+            "button_label": "Some label",
+            "button_link": "",
+            "button_style": "secondary",
+            "full_link": true
+          }
+        }
+      },
+      "block_order": [
+        "template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-0",
+        "template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-1",
+        "template--18074014941459__5ba8a55f-3a9f-475f-b23b-307d884f7df4-16783485852a34f1b2-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "header_overlay": false,
+        "layout": "grid",
+        "full": true,
+        "gap": false,
+        "border_radius": false,
+        "aspect_ratio": "full",
+        "bullets_color_scheme": "light",
+        "position_bullets": "right",
+        "bullets_background": false,
+        "enable_navigation": false,
+        "navigation_color_scheme": "",
+        "navigation_position": "sides",
+        "enable_loop": false,
+        "enable_autoplay": false,
+        "autoplay_delay": 2,
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "Petershof | Weingut",
+        "heading": "Sechs Flaschen. Sechs Persönlichkeiten. Ein Paket voller Lieblingsmomente.",
+        "heading_size": "h2",
+        "text": "<p>Sie möchten auf den Geschmack des Petershofs kommen? Dann ist unser <strong>Willkommenspaket</strong> genau das Richtige. Hier kommen sechs Charakterköpfe aus Rheinhessen direkt zu Ihnen nach Hause – wild, charmant, fruchtig, ehrlich. Jeder anders, jeder ein Erlebnis.</p>",
+        "show_button": true,
+        "button_label": "Das Petershof Willkommenspaket",
+        "button_link": "shopify://products/weingut-petershof-wilkommenspaket",
+        "button_style": "primary",
+        "text_align": "center",
+        "text_width": "medium",
+        "image": "shopify://shop_images/Weingut_Petershof_Wilkommenspaket_Banner_home.webp",
+        "autoplay_video": true,
+        "muted_video": true,
+        "loop_video": true,
+        "show_icon_play": false,
+        "show_icon_sound": false,
+        "autoplay_video_secondary": true,
+        "muted_video_secondary": true,
+        "loop_video_secondary": true,
+        "show_icon_play_secondary": false,
+        "show_icon_sound_secondary": false,
+        "height": "adapt",
+        "position": "outside",
+        "layout": "text_last",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "popular-products": {
+      "type": "popular-products",
+      "custom_css": [
+        ".card-information__group {align-items: center;}"
+      ],
+      "settings": {
+        "subheading": "Petershof | Weingut",
+        "heading": "Unsere beliebtesten Weine",
+        "heading_size": "h2",
+        "product_list": [
+          "spatburgunder",
+          "grauburgunder",
+          "probierpaket-6er-unsere-besten",
+          "sauvignon-blanc-1"
+        ],
+        "products_to_show": 4,
+        "image_ratio": "landscape",
+        "image_fit": "contain",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_collection": false,
+        "show_desc": false,
+        "columns_mobile": "2",
+        "button_show": true,
+        "button_label": "Alle Weine",
+        "button_style": "primary",
+        "button_link": "shopify://collections/alle-weine",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "image_with_text_hhzLFR": {
+      "type": "image-with-text",
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "Vielfach ausgezeichnet!",
+        "heading_size": "h2",
+        "text": "<p>Unsere Weine wurden mit höchsten Ehrungen ausgezeichnet, darunter die <strong>AWC Vienna</strong>, die <strong>Gold Asia Wine Trophy</strong> und die <strong>Goldmedaille beim Mundus Vini</strong> – ein Beweis für ihre herausragende Qualität.</p>",
+        "show_button": true,
+        "button_label": "Entdecken Sie unsere prämierten Weine",
+        "button_link": "shopify://collections/pramierte-weine",
+        "button_style": "primary",
+        "text_align": "center",
+        "text_width": "medium",
+        "image": "shopify://shop_images/WG_Petershof_Praemierungen_1.png",
+        "autoplay_video": true,
+        "muted_video": true,
+        "loop_video": true,
+        "show_icon_play": false,
+        "show_icon_sound": false,
+        "autoplay_video_secondary": true,
+        "muted_video_secondary": true,
+        "loop_video_secondary": true,
+        "show_icon_play_secondary": false,
+        "show_icon_sound_secondary": false,
+        "height": "small",
+        "position": "container",
+        "layout": "image_last",
+        "margin_top": "no-indent",
+        "margin_bottom": "xs",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "image_banner_6ddpQJ": {
+      "type": "image-banner",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "",
+        "image": "shopify://shop_images/WeingutPetershof054.jpg",
+        "image_ratio": "adapt",
+        "image_ratio_mobile": "recommended",
+        "opacity_overlay": 0,
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h3",
+        "text_information": "",
+        "text_align": "left",
+        "text_width": "full",
+        "additional_text": "",
+        "additional_image": "shopify://shop_images/P_Logo-03.png",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "categories_list_gUTcLP": {
+      "type": "categories-list",
+      "blocks": {
+        "collection_item_EhgK3A": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "alle-weine",
+            "color_scheme": "background-2",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_DBVCU9": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "weissweine",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_km8FbG": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "rotweine",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_kQYxYN": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "buchstabenlinie",
+            "color_scheme": "background-2",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_6Pkcpd": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "weinpakete-1",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "image": "shopify://shop_images/Weingut_Petershof_Kennenlernpaket_kleine_Flaschen_fuer_Homepage.png",
+            "image_2": "shopify://shop_images/Weingut_Petershof_Kennenlernpaket_kleine_Flaschen_fuer_Homepage.png",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_dCPzB7": {
+          "type": "collection_item",
+          "disabled": true,
+          "settings": {
+            "collection": "rose",
+            "color_scheme": "background-2",
+            "color_scheme_2": "background-4",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_KXDgki": {
+          "type": "collection_item",
+          "disabled": true,
+          "settings": {
+            "collection": "spirituosen",
+            "color_scheme": "background-2",
+            "color_scheme_2": "background-4",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_cnEDjx": {
+          "type": "collection_item",
+          "disabled": true,
+          "settings": {
+            "collection": "weinpakete-1",
+            "color_scheme": "background-2",
+            "color_scheme_2": "background-4",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_DjViy8": {
+          "type": "collection_item",
+          "disabled": true,
+          "settings": {
+            "collection": "perlwein",
+            "color_scheme": "background-2",
+            "color_scheme_2": "background-4",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_Nznc7J": {
+          "type": "collection_item",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "color_scheme": "background-2",
+            "color_scheme_2": "background-4",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_EhgK3A",
+        "collection_item_DBVCU9",
+        "collection_item_km8FbG",
+        "collection_item_kQYxYN",
+        "collection_item_6Pkcpd",
+        "collection_item_dCPzB7",
+        "collection_item_KXDgki",
+        "collection_item_cnEDjx",
+        "collection_item_DjViy8",
+        "collection_item_Nznc7J"
+      ],
+      "custom_css": [
+        ".categories-list__image img,.categories-list__image svg.placeholder-svg {width: 100%; height: 100%; object-fit: scale-down; object-position: right;}"
+      ],
+      "settings": {
+        "subheading": "Petershof | Weingut",
+        "heading": "Unser Sortiment",
+        "heading_size": "h3",
+        "layout": "grid",
+        "collections_to_show": 4,
+        "aspect_ratio": "recommended",
+        "show_button": true,
+        "button_label": "Alle Kollektionen",
+        "button_link": "shopify://collections",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "image_with_text_t6nk69": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "subheading": "Petershof | Events",
+        "heading": "Hoffest, Weinverkostungen und vieles mehr",
+        "heading_size": "h2",
+        "text": "<p>Mit Unterstützung von Familie und Freunden veranstalten wir regelmäßig wiederkehrende Events wie das alljährliche Hoffest, die Kundenweinlese und bieten auch andere Arrangements, wie Weinverkostungen und vieles mehr. Gerne auch für Sie! Sprechen Sie uns an und teilen Sie gerne Ihre Ideen und Wünsche mit uns.</p>",
+        "show_button": true,
+        "button_label": "Mehr über uns",
+        "button_link": "shopify://pages/uber-uns",
+        "button_style": "tertiary",
+        "text_align": "center",
+        "text_width": "medium",
+        "image": "shopify://shop_images/Petershof-event.jpg",
+        "autoplay_video": true,
+        "muted_video": true,
+        "loop_video": true,
+        "show_icon_play": false,
+        "show_icon_sound": false,
+        "autoplay_video_secondary": true,
+        "muted_video_secondary": true,
+        "loop_video_secondary": true,
+        "show_icon_play_secondary": false,
+        "show_icon_sound_secondary": false,
+        "height": "adapt",
+        "position": "container",
+        "layout": "text_last",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "custom_liquid_neqKNa": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "media-slideshow-3": {
+      "type": "media-slideshow",
+      "blocks": {
+        "block_1": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "light",
+            "image": "shopify://shop_images/5Cabernet-Sauvignon.png",
+            "overlay_opacity": 0.5,
+            "enable_hover": true,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "Petershof | Weingut",
+            "heading": "So schmeckt der Petershof",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": true,
+            "button_label": "Alle Weine",
+            "button_link": "shopify://collections/alle-weine",
+            "button_style": "secondary",
+            "full_link": true
+          }
+        },
+        "media_slide_nkj666": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "light",
+            "image": "shopify://shop_images/WeingutPetershof209.jpg",
+            "overlay_opacity": 0.5,
+            "enable_hover": true,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "Petershof | Events",
+            "heading": "Sie sind herzlich eingeladen",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": true,
+            "button_label": "Alle Termine",
+            "button_link": "shopify://pages/events",
+            "button_style": "secondary",
+            "full_link": true
+          }
+        },
+        "media_slide_Nne9dG": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "light",
+            "image": "shopify://shop_images/Weinproben_und_Feiern_OLE5514_V01_1.jpg",
+            "overlay_opacity": 0.5,
+            "enable_hover": true,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "Petershof | Location",
+            "heading": "Mit Freunden, der Familie oder Kolleg*innen",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": true,
+            "button_label": "Den Petershof mieten",
+            "button_link": "shopify://pages/location",
+            "button_style": "secondary",
+            "full_link": true
+          }
+        }
+      },
+      "block_order": [
+        "block_1",
+        "media_slide_nkj666",
+        "media_slide_Nne9dG"
+      ],
+      "settings": {
+        "header_overlay": false,
+        "layout": "grid",
+        "full": true,
+        "gap": true,
+        "border_radius": false,
+        "aspect_ratio": "full",
+        "bullets_color_scheme": "light",
+        "position_bullets": "right",
+        "bullets_background": false,
+        "enable_navigation": false,
+        "navigation_color_scheme": "",
+        "navigation_position": "sides",
+        "enable_loop": false,
+        "enable_autoplay": false,
+        "autoplay_delay": 2,
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "brands_DYzE7p": {
+      "type": "brands",
+      "blocks": {
+        "column_rmjzTU": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/Logo-Frangel.png",
+            "image_width": 90,
+            "brand_link": "http://museumsschaenke-frangel.de/"
+          }
+        },
+        "column_qyrxeM": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/3_db1348e5-0c4a-4296-847e-923d469909c8.png",
+            "image_width": 90,
+            "brand_link": "https://habel-elf.com/"
+          }
+        },
+        "column_hLbJTV": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/2_c60bc740-aa72-4cfb-beb4-ffae80701524.png",
+            "image_width": 90,
+            "brand_link": "https://www.landgasthauszumkrug.de/"
+          }
+        },
+        "column_HtxfwW": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/4_cc76f48a-a92b-4e69-ba38-1fe393aee70a.png",
+            "image_width": 90,
+            "brand_link": "https://gasthaus-johanning.de/"
+          }
+        },
+        "column_LKmQ4b": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/6_725e0922-5790-4e61-ade4-db2b61a76bd5.png",
+            "image_width": 90,
+            "brand_link": "http://www.gaumencharmeur.de/"
+          }
+        },
+        "column_mBdPYQ": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/5_7711ec94-0803-49db-98a3-285b7514cbb7.png",
+            "image_width": 90,
+            "brand_link": "https://gasthaus-kesten.de/"
+          }
+        },
+        "column_bwMjPh": {
+          "type": "column",
+          "settings": {
+            "image_1": "shopify://shop_images/Anja_Carnier_-_Logo_2.png",
+            "image_width": 70,
+            "brand_link": "https://www.hautnah-carnier.de/"
+          }
+        }
+      },
+      "block_order": [
+        "column_rmjzTU",
+        "column_qyrxeM",
+        "column_hLbJTV",
+        "column_HtxfwW",
+        "column_LKmQ4b",
+        "column_mBdPYQ",
+        "column_bwMjPh"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "position_items": "center",
+        "layout": "simple",
+        "columns_per_row": 9,
+        "subheading": "Petershof | Weingut",
+        "heading": "Unsere Partner:",
+        "heading_size": "h2",
+        "show_button": false,
+        "button_label": "",
+        "button_link": "",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "newsletter_TDrkwe": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "align_content": "left",
+        "heading": "Möchten Sie in Zukunft über aktuelle Themen, Neuigkeiten und auch Sonderangebote informiert werden?",
+        "heading_size": "h2",
+        "newsletter_text": "Bleiben Sie mit uns in Kontakt",
+        "button_style": "primary",
+        "privacy_policy_consent": false,
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "media_slideshow_Dng8K8": {
+      "type": "media-slideshow",
+      "blocks": {
+        "media_slide_PHEtJd": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "",
+            "overlay_opacity": 0.5,
+            "enable_hover": true,
+            "show_video": false,
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "Subheading",
+            "heading": "Some heading",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": true,
+            "button_label": "Some label",
+            "button_link": "",
+            "button_style": "secondary",
+            "full_link": true
+          }
+        },
+        "media_slide_Ktejfr": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "background-3",
+            "overlay_opacity": 0.5,
+            "enable_hover": true,
+            "show_video": false,
+            "video": "shopify://files/videos/20241129_Wg_Petershof_Video_Weinlese_2024.mp4",
+            "video_url": "",
+            "autoplay_video": false,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h3",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": false,
+            "button_label": "Some label",
+            "button_link": "",
+            "button_style": "secondary",
+            "full_link": true
+          }
+        }
+      },
+      "block_order": [
+        "media_slide_PHEtJd",
+        "media_slide_Ktejfr"
+      ],
+      "disabled": true,
+      "settings": {
+        "header_overlay": true,
+        "layout": "grid",
+        "full": true,
+        "gap": false,
+        "border_radius": false,
+        "aspect_ratio": "full",
+        "bullets_color_scheme": "",
+        "position_bullets": "right",
+        "bullets_background": false,
+        "enable_navigation": false,
+        "navigation_color_scheme": "",
+        "navigation_position": "sides",
+        "enable_loop": false,
+        "enable_autoplay": false,
+        "autoplay_delay": 2,
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "image_banner_mR4e3X",
+    "image_with_text_ydde6q",
+    "gallery_with_text_QwpBYE",
+    "carousel_9fM8zF",
+    "image_banner_6qDjpH",
+    "custom_liquid_APwwEW",
+    "multicolumn",
+    "media_slideshow_LRhnC7",
+    "media-slideshow",
+    "image-with-text",
+    "popular-products",
+    "image_with_text_hhzLFR",
+    "image_banner_6ddpQJ",
+    "categories_list_gUTcLP",
+    "image_with_text_t6nk69",
+    "custom_liquid_neqKNa",
+    "media-slideshow-3",
+    "brands_DYzE7p",
+    "newsletter_TDrkwe",
+    "media_slideshow_Dng8K8"
+  ]
+}
