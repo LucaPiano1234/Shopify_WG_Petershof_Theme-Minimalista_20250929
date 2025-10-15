@@ -33,10 +33,10 @@
         "text_align": "left",
         "text_width": "full",
         "additional_text": "",
-        "show_view_all": false,
-        "button_label": "Shop now",
+        "show_view_all": true,
+        "button_label": "Zum Anfragenformular",
         "button_style": "primary",
-        "button_link": "",
+        "button_link": "#shopify-section-template--25249304740219__rich_text_QjGjQa",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
       }
@@ -117,7 +117,7 @@
         "button_BNfgpy": {
           "type": "button",
           "settings": {
-            "button_label": "Zur Anfrageformular",
+            "button_label": "Zum Anfrageformular",
             "button_link": "#shopify-section-template--25249304740219__rich_text_QjGjQa",
             "button_style": "primary"
           }
