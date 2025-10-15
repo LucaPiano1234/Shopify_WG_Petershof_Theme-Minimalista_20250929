@@ -21,7 +21,7 @@
       "type": "image-banner",
       "settings": {
         "full_width": true,
-        "color_scheme": "background-4",
+        "color_scheme": "background-3",
         "image": "shopify://shop_images/WeingutPetershof001_222fcabf-ed3e-4a9a-8fcd-c73d684be390.jpg",
         "image_ratio": "21/9",
         "image_ratio_mobile": "recommended",
