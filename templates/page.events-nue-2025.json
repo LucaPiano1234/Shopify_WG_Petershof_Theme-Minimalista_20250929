@@ -121,7 +121,7 @@
         "heading": "Weinpicknick in den Weinbergen",
         "heading_size": "h2",
         "text": "<p>Gönnen Sie sich eine Auszeit mitten in der Natur! Bei unserem <strong>Weinpicknick in den Weinbergen</strong> genießen Sie Ruhe, Weitblick und echte Petershof-Gastfreundschaft. Wir bereiten für Sie einen liebevoll zusammengestellten <strong>Picknickkorb</strong> vor – gefüllt mit Mineralwasser, einer herzhaften Brotzeit und ausgewählten <strong>PETERSHOF-Weinen</strong>.</p><p>Für eine romantische moment zu zweit, oder  mit Freunden oder Familie: Lassen Sie sich überraschen und erleben Sie Genussmomente, die in Erinnerung bleiben.</p>",
-        "show_button": false,
+        "show_button": true,
         "button_label": "Jetzt Picknick buchen",
         "button_link": "",
         "button_style": "primary",
@@ -145,6 +145,66 @@
         "margin_bottom": "no-indent",
         "padding_top": "m",
         "padding_bottom": "l"
+      }
+    },
+    "rich_text_dDYi6F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cfyLzC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Haben Sie Lust bekommen, bei uns zu feiern, zu genießen oder einfach eine unvergessliche Zeit zu verbringen?",
+            "heading_size": "medium"
+          }
+        },
+        "text_3VCFQa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dann nutzen Sie unser <strong>Anfrageformular</strong> – schnell, unkompliziert und direkt. Teilen Sie uns einfach mit, was Sie planen: eine Feier, eine Weinprobe, ein Picknick oder vielleicht ein ganz besonderes Event. Wir melden uns umgehend mit einem individuellen Angebot und beraten Sie gern persönlich.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cfyLzC",
+        "text_3VCFQa"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "alignment": "center",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "1760522792057d847b": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_qDzAbq": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "700513",
+            "text_color": "#202020",
+            "button_background_color": "#696969",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 6,
+            "padding_bottom": 24,
+            "padding_right": 10,
+            "padding_left": 10
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_qDzAbq"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "image_with_text_gPNyDm": {
@@ -208,7 +268,7 @@
         "show_icon_sound_secondary": false,
         "height": "adapt",
         "position": "container",
-        "layout": "text_last",
+        "layout": "image_last",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
         "padding_top": "m",
@@ -228,6 +288,8 @@
     "image_with_text_q3wTT9",
     "image_with_text_JH3bkJ",
     "image_with_text_Dwczic",
+    "rich_text_dDYi6F",
+    "1760522792057d847b",
     "image_with_text_gPNyDm",
     "image_with_text_e3jBb7",
     "custom_liquid_xiaRNQ"
