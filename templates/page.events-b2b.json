@@ -133,7 +133,7 @@
         "alignment": "center",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
-        "padding_top": "no-indent",
+        "padding_top": "s",
         "padding_bottom": "no-indent"
       }
     },
