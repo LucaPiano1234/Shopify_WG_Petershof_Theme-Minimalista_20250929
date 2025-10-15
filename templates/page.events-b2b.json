@@ -19,6 +19,7 @@
     },
     "image_banner_hCGYCT": {
       "type": "image-banner",
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "color_scheme": "background-3",
