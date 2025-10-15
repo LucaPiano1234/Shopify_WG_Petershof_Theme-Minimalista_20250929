@@ -131,8 +131,8 @@
         "alignment": "center",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
-        "padding_top": "m",
-        "padding_bottom": "m"
+        "padding_top": "s",
+        "padding_bottom": "xs"
       }
     },
     "1760524984c0e1403b": {
