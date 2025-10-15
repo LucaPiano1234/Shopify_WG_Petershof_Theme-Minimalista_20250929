@@ -21,7 +21,7 @@
       "type": "image-banner",
       "settings": {
         "full_width": true,
-        "color_scheme": "background-4",
+        "color_scheme": "background-3",
         "image": "shopify://shop_images/AndreaSchombaraFotografie2_1.jpg",
         "image_ratio": "21/9",
         "image_ratio_mobile": "recommended",
