@@ -19,6 +19,9 @@
     },
     "image_banner_hCGYCT": {
       "type": "image-banner",
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.button--primary, .customer .button--primary {background-color: #f5f5f5; color: #000000; }}"
+      ],
       "settings": {
         "full_width": true,
         "color_scheme": "background-3",
@@ -35,7 +38,7 @@
         "additional_text": "",
         "show_view_all": true,
         "button_label": "Buchungsmöglichkeiten",
-        "button_style": "secondary",
+        "button_style": "primary",
         "button_link": "#shopify-section-template--25249193656699__multicolumn_GR4RHh",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
