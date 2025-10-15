@@ -27,7 +27,7 @@
         "image_ratio_mobile": "recommended",
         "opacity_overlay": 0.2,
         "subheading": "Petershof | Location",
-        "heading": "Mieten Sie den Petershof",
+        "heading": "Tagen Sie im Petershof",
         "heading_size": "h3",
         "text_information": "",
         "text_align": "left",
@@ -88,28 +88,12 @@
             "additional_text_1": "",
             "additional_text_2": ""
           }
-        },
-        "column_HpLbak": {
-          "type": "column",
-          "settings": {
-            "icon": "none",
-            "heading": "Feature Title Here",
-            "text": "<p>Showcase craftsmanship, product benefits, or an exclusive offer.</p>",
-            "show_button": true,
-            "button_label": "Discover More",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
         }
       },
       "block_order": [
         "column_DGyqYD",
         "column_6iGigA",
-        "column_k3ANm9",
-        "column_HpLbak"
+        "column_k3ANm9"
       ],
       "custom_css": [],
       "settings": {
@@ -389,87 +373,12 @@
             "additional_text_2": ""
           }
         },
-        "column_KdaQxY": {
+        "column_igGCcg": {
           "type": "column",
           "settings": {
-            "icon": "youtube",
+            "icon": "chat_bubble_5",
             "heading": "",
-            "text": "<p><strong>Internet</strong></p><p>WLAN ist in dem Zimmer/der Wohneinheit nutzbar und ist kostenfrei.</p>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
-        },
-        "column_WgXPxJ": {
-          "type": "column",
-          "settings": {
-            "icon": "pepper",
-            "heading": "",
-            "text": "<p><strong>Küche</strong></p><ul><li>Voll ausgestattete Küche</li><li>Geschirrspülmaschine</li><li>Thermomix</li><li>Kaffeemaschine</li><li>KitchenAid </li></ul>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
-        },
-        "column_9UNTYp": {
-          "type": "column",
-          "settings": {
-            "icon": "hanger",
-            "heading": "",
-            "text": "<p><strong>Schlafzimmer</strong></p><ul><li>Bettwäsche</li><li>Schrank</li></ul>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
-        },
-        "column_JhFgHQ": {
-          "type": "column",
-          "settings": {
-            "icon": "washing",
-            "heading": "",
-            "text": "<p><strong>Badezimmer</strong></p><ul><li>Toilettenpapier</li><li>Handtücher</li><li>Eigenes Badezimmer</li><li>WC</li><li>Dusche</li></ul>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
-        },
-        "column_FyBgwp": {
-          "type": "column",
-          "settings": {
-            "icon": "heart",
-            "heading": "",
-            "text": "<p><strong>Wohnbereich</strong></p><ul><li>Kamin</li><li>Sitzbereich</li><li>Schreibtisch</li></ul>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
-        },
-        "column_dhNmfg": {
-          "type": "column",
-          "settings": {
-            "icon": "moon",
-            "heading": "",
-            "text": "<p><strong>Zimmerausstattung</strong></p><ul><li>Wäscheständer</li><li>Holz- oder Parkettböden</li><li>Privater Eingang</li></ul>",
+            "text": "<p><strong>Businessausstattung</strong></p><ul><li>Konferenz- und Veranstaltungsräume (Zusätzliche Gebühren)</li><li>WLAN ist nutzbar und ist kostenfrei.</li></ul>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
@@ -508,66 +417,13 @@
             "additional_text_1": "",
             "additional_text_2": ""
           }
-        },
-        "column_kVcapn": {
-          "type": "column",
-          "settings": {
-            "icon": "users",
-            "heading": "",
-            "text": "<p><strong>Unterhaltung und Familienangebote</strong></p><ul><li>Wandern</li><li>Dart</li><li>Billard</li><li>Outdoorspielgeräte für Kinder</li><li>Indoorspielbereich</li><li>Brettspiele/Puzzle</li><li>Spielzimmer</li></ul>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
-        },
-        "column_igGCcg": {
-          "type": "column",
-          "settings": {
-            "icon": "chat_bubble_5",
-            "heading": "",
-            "text": "<p><strong>Businessausstattung</strong></p><ul><li>Konferenz- und Veranstaltungsräume (Zusätzliche Gebühren)</li></ul>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
-        },
-        "column_6cKLyg": {
-          "type": "column",
-          "settings": {
-            "icon": "check_mark_1",
-            "heading": "",
-            "text": "<p><strong>Sonstiges</strong></p><ul><li>Nichtraucherunterkunft</li><li>Raucherbereich</li><li>Allergikerfreundliche Zimmer verfügbar</li><li>Heizung</li><li>Schallisolierte Zimmer</li></ul><p><strong>Gesprochene Sprachen</strong></p><ul><li>Deutsch</li><li>Englisch</li></ul>",
-            "show_button": false,
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "full_link": false,
-            "additional_text_1": "",
-            "additional_text_2": ""
-          }
         }
       },
       "block_order": [
         "column_TJppjy",
-        "column_KdaQxY",
-        "column_WgXPxJ",
-        "column_9UNTYp",
-        "column_JhFgHQ",
-        "column_FyBgwp",
-        "column_dhNmfg",
-        "column_GQpMyV",
-        "column_ePKM8M",
-        "column_kVcapn",
         "column_igGCcg",
-        "column_6cKLyg"
+        "column_GQpMyV",
+        "column_ePKM8M"
       ],
       "settings": {
         "section_type": "solid",
