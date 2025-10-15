@@ -111,18 +111,20 @@
         "padding_bottom": "m"
       }
     },
-    "rich_text_QjGjQa": {
+    "rich_text_qnxHcB": {
       "type": "rich-text",
       "blocks": {
-        "text_PYc8Mh": {
-          "type": "text",
+        "button_BNfgpy": {
+          "type": "button",
           "settings": {
-            "text": "<p>Nutzen Sie unser <strong>Anfrageformular</strong>, um uns Ihre Wünsche mitzuteilen – egal ob es um ein Tagesseminar, ein mehrtägiges Meeting oder ein Firmenjubiläum geht. Wir beraten Sie persönlich, erstellen ein maßgeschneidertes Angebot und kümmern uns um die Details, damit Sie sich voll und ganz auf Ihr Team konzentrieren können.</p>"
+            "button_label": "Zur Anfrageformular",
+            "button_link": "#shopify-section-template--25249304740219__rich_text_QjGjQa",
+            "button_style": "primary"
           }
         }
       },
       "block_order": [
-        "text_PYc8Mh"
+        "button_BNfgpy"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -131,36 +133,8 @@
         "alignment": "center",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent",
-        "padding_top": "s",
-        "padding_bottom": "xs"
-      }
-    },
-    "1760524984c0e1403b": {
-      "type": "apps",
-      "blocks": {
-        "forms_inline_WUi3qT": {
-          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
-          "settings": {
-            "form_id": "700523",
-            "text_color": "#202020",
-            "button_background_color": "#202020",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
-            "text_alignment": "center",
-            "form_alignment": "center",
-            "padding_top": 4,
-            "padding_bottom": 24,
-            "padding_right": 10,
-            "padding_left": 10
-          }
-        }
-      },
-      "block_order": [
-        "forms_inline_WUi3qT"
-      ],
-      "settings": {
-        "include_margins": true
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
       }
     },
     "instagram_collage_WbznHr": {
@@ -230,6 +204,58 @@
         "icon": "instagram",
         "padding_top": "m",
         "padding_bottom": "m"
+      }
+    },
+    "rich_text_QjGjQa": {
+      "type": "rich-text",
+      "blocks": {
+        "text_PYc8Mh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nutzen Sie unser <strong>Anfrageformular</strong>, um uns Ihre Wünsche mitzuteilen – egal ob es um ein Tagesseminar, ein mehrtägiges Meeting oder ein Firmenjubiläum geht. Wir beraten Sie persönlich, erstellen ein maßgeschneidertes Angebot und kümmern uns um die Details, damit Sie sich voll und ganz auf Ihr Team konzentrieren können.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_PYc8Mh"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "alignment": "center",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "s",
+        "padding_bottom": "xs"
+      }
+    },
+    "1760524984c0e1403b": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_WUi3qT": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "700523",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 4,
+            "padding_bottom": 24,
+            "padding_right": 10,
+            "padding_left": 10
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_WUi3qT"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "collapsible_content_QxEUM6": {
@@ -445,9 +471,10 @@
     "main",
     "image_banner_hCGYCT",
     "multicolumn_GR4RHh",
+    "rich_text_qnxHcB",
+    "instagram_collage_WbznHr",
     "rich_text_QjGjQa",
     "1760524984c0e1403b",
-    "instagram_collage_WbznHr",
     "collapsible_content_QxEUM6",
     "multicolumn_LBGFA3"
   ]
