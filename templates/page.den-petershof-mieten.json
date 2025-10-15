@@ -55,7 +55,7 @@
           "settings": {
             "icon": "star",
             "heading": "",
-            "text": "<p><strong>Sie mieten immer das komplette Weingut – inklusive Innenhof, Terrasse, großem Garten und der großzügigen Küche. </strong>Und: Sie sind immer für sich alleine, d.h. ganz exklusiv. Egal wie viele Zimmer Sie mieten, wir vermieten immer nur an eine Partei. Das heißt Sie sind für sich, ungestört und können die Großzügigkeit unseres Weinguts in vollen Zügen genießen!</p>",
+            "text": "<p><strong>Sie mieten immer das komplette Weingut – inklusive Innenhof, Terrasse, großem Garten und der großzügigen Küche. <br/><br/>Und: Sie sind immer für sich alleine, d.h. ganz exklusiv. </strong>Egal wie viele Zimmer Sie mieten, wir vermieten immer nur an eine Partei. Das heißt, Sie sind für sich, ungestört und können die Großzügigkeit unseres Weinguts in vollen Zügen genießen!</p>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
@@ -380,7 +380,7 @@
           "settings": {
             "icon": "home",
             "heading": "",
-            "text": "<p><strong>Parkmöglichkeiten</strong><br/>Private Parkplätze stehen kostenfrei an der Unterkunft (Reservierung ist nicht erforderlich) zur Verfügung.</p>",
+            "text": "<p><strong>Parkmöglichkeiten</strong></p><p>Private Parkplätze stehen kostenfrei an der Unterkunft (Reservierung ist nicht erforderlich) zur Verfügung.</p>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
@@ -395,7 +395,7 @@
           "settings": {
             "icon": "youtube",
             "heading": "",
-            "text": "<p><strong>Internet</strong><br/>WLAN ist in dem Zimmer/der Wohneinheit nutzbar und ist kostenfrei.</p>",
+            "text": "<p><strong>Internet</strong></p><p>WLAN ist in dem Zimmer/der Wohneinheit nutzbar und ist kostenfrei.</p>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
