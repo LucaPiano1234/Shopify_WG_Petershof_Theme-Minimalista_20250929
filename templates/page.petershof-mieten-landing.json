@@ -35,8 +35,8 @@
         "additional_text": "",
         "show_view_all": true,
         "button_label": "Buchungsmöglichkeiten",
-        "button_style": "primary",
-        "button_link": "",
+        "button_style": "secondary",
+        "button_link": "#multicolumn color-background-2 background section-template--25249193656699__multicolumn_GR4RHh-padding multicolumn--solid",
         "margin_top": "no-indent",
         "margin_bottom": "no-indent"
       }
