@@ -399,6 +399,7 @@
         "column_igGCcg",
         "column_6cKLyg"
       ],
+      "disabled": true,
       "settings": {
         "section_type": "solid",
         "color_scheme": "background-2",
