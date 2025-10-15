@@ -1,0 +1,765 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    },
+    "image_banner_hCGYCT": {
+      "type": "image-banner",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-4",
+        "image": "shopify://shop_images/WeingutPetershof001_222fcabf-ed3e-4a9a-8fcd-c73d684be390.jpg",
+        "image_ratio": "21/9",
+        "image_ratio_mobile": "recommended",
+        "opacity_overlay": 0.3,
+        "subheading": "Petershof | Location",
+        "heading": "Mieten Sie den Petershof",
+        "heading_size": "h3",
+        "text_information": "",
+        "text_align": "left",
+        "text_width": "full",
+        "additional_text": "",
+        "show_view_all": false,
+        "button_label": "Shop now",
+        "button_style": "primary",
+        "button_link": "",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent"
+      }
+    },
+    "custom_liquid_dTHqKC": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script>     window.dw = window.dw || function () { (dw.q = dw.q || []).push(arguments) };     dw(      'settings',      '380bcdea-57dc-48da-903e-5ef8e69bd5e3',      {       \"context\": {        \"serviceIds\": [],        \"productIds\": [],        \"packageIds\": []       },       \"lang\": 'de'      }     );    </script>    <script async src=https://web5.deskline.net/start/ACCOWEBRLP/380bcdea-57dc-48da-903e-5ef8e69bd5e3/index.js></script>"
+      }
+    },
+    "multicolumn_GR4RHh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DGyqYD": {
+          "type": "column",
+          "settings": {
+            "icon": "star",
+            "heading": "",
+            "text": "<p><strong>Sie mieten immer das komplette Weingut – inklusive Innenhof, Terrasse, großem Garten und der großzügigen Küche. <br/><br/>Und: Sie sind immer für sich alleine, d.h. ganz exklusiv. </strong>Egal wie viele Zimmer Sie mieten, wir vermieten immer nur an eine Partei. Das heißt, Sie sind für sich, ungestört und können die Großzügigkeit unseres Weinguts in vollen Zügen genießen!</p>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_6iGigA": {
+          "type": "column",
+          "settings": {
+            "icon": "users",
+            "heading": "",
+            "text": "<ul><li>Für Familienfeiern</li><li>Für Urlaub mit den Freund*innen</li><li>Für Teams</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_k3ANm9": {
+          "type": "column",
+          "settings": {
+            "icon": "home",
+            "heading": "",
+            "text": "<ul><li>Ganzes Appartment<br/></li><li>120m²<br/></li><li>5 Schlafzimmer<br/></li><li>5 Badezimmer<br/></li><li>Küche<br/></li><li>Nichtraucher<br/></li><li>Haustiere nicht erlaubt<br/></li><li>WLAN</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DGyqYD",
+        "column_6iGigA",
+        "column_k3ANm9"
+      ],
+      "custom_css": [],
+      "settings": {
+        "section_type": "solid",
+        "color_scheme": "background-2",
+        "multicolumn_to_show": 3,
+        "heading": "Event- und Gästehaus im Weingut",
+        "heading_size": "h2",
+        "image_width": "small",
+        "image_ratio": "square",
+        "object_fit": "cover",
+        "swipe_on_mobile": true,
+        "card_heading_size": "h5",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "instagram_collage_WbznHr": {
+      "type": "instagram-collage",
+      "blocks": {
+        "instagram_collage_image_UhDrmt": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof001_1.jpg"
+          }
+        },
+        "instagram_collage_image_hQQYan": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof006.jpg"
+          }
+        },
+        "instagram_collage_image_RFk4dt": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof188.jpg"
+          }
+        },
+        "instagram_collage_image_9tgamF": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof117_1.jpg"
+          }
+        },
+        "instagram_collage_image_4WfPfp": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/Petershof_Y1A7419.jpg"
+          }
+        },
+        "instagram_collage_image_jVrVaX": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/Bild_KAche_2.jpg"
+          }
+        },
+        "instagram_collage_image_3WppAw": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/Bild_KAche_3.jpg"
+          }
+        },
+        "instagram_collage_image_QtPhC3": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof119.jpg"
+          }
+        },
+        "instagram_collage_image_pLVcC7": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof145.jpg"
+          }
+        },
+        "instagram_collage_image_LHdG3N": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof137.jpg"
+          }
+        },
+        "instagram_collage_image_cPYjbq": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof104.jpg"
+          }
+        },
+        "instagram_collage_image_9GDjaQ": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof129.jpg"
+          }
+        },
+        "instagram_collage_image_UbqewF": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof456.jpg"
+          }
+        },
+        "instagram_collage_image_xxahGK": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof451.jpg"
+          }
+        },
+        "instagram_collage_image_U8h8LM": {
+          "type": "instagram-collage_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof459.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "instagram_collage_image_UhDrmt",
+        "instagram_collage_image_hQQYan",
+        "instagram_collage_image_RFk4dt",
+        "instagram_collage_image_9tgamF",
+        "instagram_collage_image_4WfPfp",
+        "instagram_collage_image_jVrVaX",
+        "instagram_collage_image_3WppAw",
+        "instagram_collage_image_QtPhC3",
+        "instagram_collage_image_pLVcC7",
+        "instagram_collage_image_LHdG3N",
+        "instagram_collage_image_cPYjbq",
+        "instagram_collage_image_9GDjaQ",
+        "instagram_collage_image_UbqewF",
+        "instagram_collage_image_xxahGK",
+        "instagram_collage_image_U8h8LM"
+      ],
+      "settings": {
+        "section_type": "static",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "speed_slider_1": 500,
+        "speed_slider_2": 700,
+        "column_to_show": 3,
+        "image_ratio": "landscape",
+        "show_account": false,
+        "name_account": "Text",
+        "link_account": "",
+        "show_description": false,
+        "button_label": "Follow",
+        "button_link": "",
+        "button_style": "primary",
+        "icon": "instagram",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "collapsible_content_QxEUM6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "accordion_VzFHA4": {
+          "type": "accordion",
+          "settings": {
+            "question": "Parkmöglichkeiten",
+            "answer": "<p>Private Parkplätze stehen kostenfrei an der Unterkunft (Reservierung ist nicht erforderlich) zur Verfügung.</p>"
+          }
+        },
+        "accordion_HkdHz7": {
+          "type": "accordion",
+          "settings": {
+            "question": "Internet",
+            "answer": "<p>WLAN ist in dem Zimmer/der Wohneinheit nutzbar und ist kostenfrei.</p>"
+          }
+        },
+        "accordion_Vd4cPr": {
+          "type": "accordion",
+          "settings": {
+            "question": "Küche",
+            "answer": "<p></p><ul><li>Gemeinschaftsküche</li><li>Wäschetrockner</li><li>Küche</li></ul>"
+          }
+        },
+        "accordion_RCp7HH": {
+          "type": "accordion",
+          "settings": {
+            "question": "Schlafzimmer",
+            "answer": "<p></p><ul><li>Bettwäsche</li><li>Schrank</li></ul>"
+          }
+        },
+        "accordion_4NMjb8": {
+          "type": "accordion",
+          "settings": {
+            "question": "Badezimmer",
+            "answer": "<p></p><ul><li>Toilettenpapier</li><li>Handtücher</li><li>Eigenes Badezimmer</li><li>WC</li><li>Dusche</li></ul>"
+          }
+        },
+        "accordion_EAMJY3": {
+          "type": "accordion",
+          "settings": {
+            "question": "Wohnbereich",
+            "answer": "<p></p><ul><li>Kamin</li><li>Sitzbereich</li><li>Schreibtisch</li></ul>"
+          }
+        },
+        "accordion_MPJkq8": {
+          "type": "accordion",
+          "settings": {
+            "question": "Zimmerausstattung",
+            "answer": "<p></p><ul><li>Wäscheständer</li><li>Holz- oder Parkettböden</li><li>Privater Eingang</li></ul>"
+          }
+        },
+        "accordion_mY4d79": {
+          "type": "accordion",
+          "settings": {
+            "question": "Außenbereich",
+            "answer": "<p></p><ul><li>Feuerstelle im Freien</li><li>Picknickbereich</li><li>Gartenmöbel</li><li>Sonnenterrasse</li><li>Grillmöglichkeiten</li><li>Terrasse</li><li>Garten</li></ul>"
+          }
+        },
+        "accordion_N4M9Fw": {
+          "type": "accordion",
+          "settings": {
+            "question": "Speisen & Getränke",
+            "answer": "<p></p><ul><li>Wein/SektZusätzliche Gebühren</li></ul>"
+          }
+        },
+        "accordion_hAyAMA": {
+          "type": "accordion",
+          "settings": {
+            "question": "Rezeptionsservice",
+            "answer": "<p></p><ul><li>Rechnung auf Anfrage</li><li>Informationsschalter für Ausflüge</li></ul>"
+          }
+        },
+        "accordion_tbxq6h": {
+          "type": "accordion",
+          "settings": {
+            "question": "Unterhaltung und Familienangebote",
+            "answer": "<p></p><ul><li>Wandern</li><li>Dart</li><li>Billard</li><li>Spielzimmer</li><li>Outdoorspielgeräte für Kinder</li><li>Indoorspielbereich</li><li>Brettspiele/Puzzle</li></ul>"
+          }
+        },
+        "accordion_TmDzpj": {
+          "type": "accordion",
+          "settings": {
+            "question": "Businessausstattung",
+            "answer": "<p></p><ul><li>Konferenz- und Veranstaltungsräume </li></ul>"
+          }
+        },
+        "accordion_L9CWUq": {
+          "type": "accordion",
+          "settings": {
+            "question": "Sonstiges",
+            "answer": "<p></p><ul><li>Raucherbereich</li><li>Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)</li><li>Allergikerfreundliche Zimmer verfügbar</li><li>Heizung</li><li>Schallisolierte Zimmer</li><li>Nichtraucherzimmer</li></ul><p>Sicherheit</p><ul><li>Feuerlöscher</li><li>Videoüberwachung der Außenbereiche der Unterkunft</li><li>Rauchmelder</li><li>Zugang mit Schlüssel</li></ul><p>Gesprochene Sprachen</p><ul><li>Deutsch</li><li>Englisch</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_VzFHA4",
+        "accordion_HkdHz7",
+        "accordion_Vd4cPr",
+        "accordion_RCp7HH",
+        "accordion_4NMjb8",
+        "accordion_EAMJY3",
+        "accordion_MPJkq8",
+        "accordion_mY4d79",
+        "accordion_N4M9Fw",
+        "accordion_hAyAMA",
+        "accordion_tbxq6h",
+        "accordion_TmDzpj",
+        "accordion_L9CWUq"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Petershof | Location",
+        "heading": "Ausstattung",
+        "heading_size": "h2",
+        "show_button": false,
+        "button_label": "Some label",
+        "button_link": "",
+        "button_style": "simple",
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    },
+    "multicolumn_LBGFA3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TJppjy": {
+          "type": "column",
+          "settings": {
+            "icon": "home",
+            "heading": "",
+            "text": "<p><strong>Parkmöglichkeiten</strong></p><p>Private Parkplätze stehen kostenfrei an der Unterkunft (Reservierung ist nicht erforderlich) zur Verfügung.</p>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_KdaQxY": {
+          "type": "column",
+          "settings": {
+            "icon": "youtube",
+            "heading": "",
+            "text": "<p><strong>Internet</strong></p><p>WLAN ist in dem Zimmer/der Wohneinheit nutzbar und ist kostenfrei.</p>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_WgXPxJ": {
+          "type": "column",
+          "settings": {
+            "icon": "pepper",
+            "heading": "",
+            "text": "<p><strong>Küche</strong></p><ul><li>Voll ausgestattete Küche</li><li>Geschirrspülmaschine</li><li>Thermomix</li><li>Kaffeemaschine</li><li>KitchenAid </li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_9UNTYp": {
+          "type": "column",
+          "settings": {
+            "icon": "hanger",
+            "heading": "",
+            "text": "<p><strong>Schlafzimmer</strong></p><ul><li>Bettwäsche</li><li>Schrank</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_JhFgHQ": {
+          "type": "column",
+          "settings": {
+            "icon": "washing",
+            "heading": "",
+            "text": "<p><strong>Badezimmer</strong></p><ul><li>Toilettenpapier</li><li>Handtücher</li><li>Eigenes Badezimmer</li><li>WC</li><li>Dusche</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_FyBgwp": {
+          "type": "column",
+          "settings": {
+            "icon": "heart",
+            "heading": "",
+            "text": "<p><strong>Wohnbereich</strong></p><ul><li>Kamin</li><li>Sitzbereich</li><li>Schreibtisch</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_dhNmfg": {
+          "type": "column",
+          "settings": {
+            "icon": "moon",
+            "heading": "",
+            "text": "<p><strong>Zimmerausstattung</strong></p><ul><li>Wäscheständer</li><li>Holz- oder Parkettböden</li><li>Privater Eingang</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_GQpMyV": {
+          "type": "column",
+          "settings": {
+            "icon": "leaf_2",
+            "heading": "",
+            "text": "<p><strong>Außenbereich</strong></p><ul><li>Feuerstelle im Freien</li><li>Picknickbereich</li><li>Gartenmöbel</li><li>Sonnenterrasse</li><li>Grillmöglichkeiten</li><li>Terrasse</li><li>Garten</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_ePKM8M": {
+          "type": "column",
+          "settings": {
+            "icon": "bottle_2",
+            "heading": "",
+            "text": "<p><strong>Speisen & Getränke</strong></p><ul><li>Wein/Sekt Zusätzliche Gebühren</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_kVcapn": {
+          "type": "column",
+          "settings": {
+            "icon": "users",
+            "heading": "",
+            "text": "<p><strong>Unterhaltung und Familienangebote</strong></p><ul><li>Wandern</li><li>Dart</li><li>Billard</li><li>Outdoorspielgeräte für Kinder</li><li>Indoorspielbereich</li><li>Brettspiele/Puzzle</li><li>Spielzimmer</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_igGCcg": {
+          "type": "column",
+          "settings": {
+            "icon": "chat_bubble_5",
+            "heading": "",
+            "text": "<p><strong>Businessausstattung</strong></p><ul><li>Konferenz- und Veranstaltungsräume (Zusätzliche Gebühren)</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_6cKLyg": {
+          "type": "column",
+          "settings": {
+            "icon": "check_mark_1",
+            "heading": "",
+            "text": "<p><strong>Sonstiges</strong></p><ul><li>Nichtraucherunterkunft</li><li>Raucherbereich</li><li>Allergikerfreundliche Zimmer verfügbar</li><li>Heizung</li><li>Schallisolierte Zimmer</li></ul><p><strong>Gesprochene Sprachen</strong></p><ul><li>Deutsch</li><li>Englisch</li></ul>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TJppjy",
+        "column_KdaQxY",
+        "column_WgXPxJ",
+        "column_9UNTYp",
+        "column_JhFgHQ",
+        "column_FyBgwp",
+        "column_dhNmfg",
+        "column_GQpMyV",
+        "column_ePKM8M",
+        "column_kVcapn",
+        "column_igGCcg",
+        "column_6cKLyg"
+      ],
+      "settings": {
+        "section_type": "solid",
+        "color_scheme": "background-2",
+        "multicolumn_to_show": 4,
+        "heading": "Ausstattung",
+        "heading_size": "h3",
+        "image_width": "small",
+        "image_ratio": "square",
+        "object_fit": "cover",
+        "swipe_on_mobile": true,
+        "card_heading_size": "h5",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "multicolumn_W3YPYX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YxfzNc": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "heading": "Direkt buchen",
+            "text": "<p>Buchen Sie einfach und schnell über Booking.com</p>",
+            "show_button": true,
+            "button_label": "Booking.com",
+            "button_link": "https://www.booking.com/hotel/de/event-und-gastehaus-stefan-kuhn.de.html",
+            "button_style": "secondary",
+            "full_link": false,
+            "additional_text_1": "Schnell & unkompliziert buchen",
+            "additional_text_2": "Günstigster Preis"
+          }
+        },
+        "column_tk8LXR": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "heading": "Besondere Arrangements:",
+            "text": "<p>Wenn Sie nicht alle zur gleichen Zeit an- oder abreisen möchten dann besteht selbstverständlich die Möglichkeit dies für Sie zu organisieren.<br/>Ebenso besteht auch die Möglichkeit bei Kleingruppen alle Zimmer für unsere Gäste einzeln zu belegen.</p><p>Bei Booking.com ist dies jedoch beides leider nicht technisch umsetzbar.</p><p>Sollten Sie diesbezüglich Wünsche haben, so bitten wir Sie uns direkt zu kontaktieren.<br/>Wir möchten, daß Sie sich bei uns wohlfühlen und erholen!</p>",
+            "show_button": true,
+            "button_label": "Kontakt",
+            "button_link": "shopify://pages/kontakt",
+            "button_style": "secondary",
+            "full_link": false,
+            "additional_text_1": "Für individuelle Anfragen",
+            "additional_text_2": "Wenn Sie noch Fragen haben"
+          }
+        }
+      },
+      "block_order": [
+        "column_YxfzNc",
+        "column_tk8LXR"
+      ],
+      "settings": {
+        "section_type": "solid",
+        "color_scheme": "background-3",
+        "multicolumn_to_show": 2,
+        "heading": "",
+        "heading_size": "h2",
+        "image_width": "medium",
+        "image_ratio": "portrait",
+        "object_fit": "cover",
+        "swipe_on_mobile": false,
+        "card_heading_size": "h4",
+        "padding_top": "m",
+        "padding_bottom": "l"
+      }
+    },
+    "lookbook_wN7AnL": {
+      "type": "lookbook",
+      "blocks": {
+        "lookbook_text_7rEL7M": {
+          "type": "lookbook_text",
+          "settings": {
+            "color_scheme": "",
+            "text_position": "center",
+            "subheading": "",
+            "heading": "5 Doppelzimmer",
+            "heading_size": "h2",
+            "text": "In 5 Doppelzimmern können bis zu 10 Personen übernachten. Jedes Zimmer besitzt ein eigenes Bad, ein Box-Spring Doppelbett und eine kleine Sitzecke.",
+            "bottom_image_width": 150,
+            "button_show": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        },
+        "lookbook_image_zDVMMT": {
+          "type": "lookbook_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof277_39dbebf8-62c5-4787-afb0-4bb1b6f8547e.jpg"
+          }
+        },
+        "lookbook_image_fgPj78": {
+          "type": "lookbook_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof286_5c92b876-5d45-48d8-b370-380f48123261.jpg"
+          }
+        },
+        "lookbook_image_YFhmXL": {
+          "type": "lookbook_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof314.jpg"
+          }
+        },
+        "lookbook_image_kqwGWL": {
+          "type": "lookbook_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof275_7876c5e6-5848-4923-ae5c-52525ec57290.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "lookbook_text_7rEL7M",
+        "lookbook_image_zDVMMT",
+        "lookbook_image_fgPj78",
+        "lookbook_image_YFhmXL",
+        "lookbook_image_kqwGWL"
+      ],
+      "settings": {
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "full_width": false,
+        "adapt_width": true,
+        "adapt_height": false,
+        "margin_top": "m",
+        "margin_bottom": "m"
+      }
+    },
+    "rich_text_pWEMWh": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_b93Bi4": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Petershof | Location"
+          }
+        },
+        "heading_xxfEgk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jetzt buchen",
+            "heading_size": "medium"
+          }
+        },
+        "text_HyXH3F": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Wenn Sie nicht alle zur gleichen Zeit an- oder abreisen möchten dann besteht selbstverständlich die Möglichkeit dies für Sie zu organisieren. Ebenso besteht auch die Möglichkeit bei Kleingruppen alle Zimmer für unsere Gäste einzeln zu belegen.</p><p>Bei Booking.com ist dies jedoch beides leider nicht technisch umsetzbar.</p><p>Sollten Sie diesbezüglich Wünsche haben, so bitten wir Sie uns direkt zu kontaktieren.<br/>Wir möchten, daß Sie sich bei uns wohlfühlen und erholen!</p>"
+          }
+        },
+        "button_jjmzUj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Booking.com",
+            "button_link": "https://www.booking.com/hotel/de/event-und-gastehaus-stefan-kuhn.de.html",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_b93Bi4",
+        "heading_xxfEgk",
+        "text_HyXH3F",
+        "button_jjmzUj"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-4",
+        "full_width": true,
+        "alignment": "center",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_hCGYCT",
+    "custom_liquid_dTHqKC",
+    "multicolumn_GR4RHh",
+    "instagram_collage_WbznHr",
+    "collapsible_content_QxEUM6",
+    "multicolumn_LBGFA3",
+    "multicolumn_W3YPYX",
+    "lookbook_wN7AnL",
+    "rich_text_pWEMWh"
+  ]
+}
