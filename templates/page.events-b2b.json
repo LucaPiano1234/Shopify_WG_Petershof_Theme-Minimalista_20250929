@@ -455,7 +455,7 @@
           "settings": {
             "icon": "chat_bubble_5",
             "heading": "",
-            "text": "<p><strong>Businessausstattung</strong></p><ul><li>Konferenz- und Veranstaltungsräume (Zusätzliche Gebühren)</li><li>WLAN ist nutzbar und ist kostenfrei.</li></ul>",
+            "text": "<p><strong>Businessausstattung</strong></p><ul><li>Konferenz- und Veranstaltungsräume (Zusätzliche Gebühren)</li><li>WLAN ist nutzbar und ist kostenfrei.</li><li>Beamer, Flipchart, Stifte und Schreibblöcke</li></ul>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
@@ -485,7 +485,7 @@
           "settings": {
             "icon": "bottle_2",
             "heading": "",
-            "text": "<p><strong>Speisen & Getränke</strong></p><ul><li>Wein/Sekt Zusätzliche Gebühren</li></ul>",
+            "text": "<p><strong>Speisen & Getränke</strong></p><ul><li>Wein/Sekt Zusätzliche Gebühren</li><li>Auf Wunsch organisieren wir für Sie Weinproben und Kellerführungen</li></ul>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
