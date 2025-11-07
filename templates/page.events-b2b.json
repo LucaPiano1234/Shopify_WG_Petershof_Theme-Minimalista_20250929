@@ -20,7 +20,7 @@
     "image_banner_hCGYCT": {
       "type": "image-banner",
       "custom_css": [
-        "@media only screen and (max-width: 600px) {.button--primary,.customer .button--primary {background-color: #f5f5f5; color: #000000;} }"
+        "@media only screen and (max-width: 600px) {.button--primary, .customer .button--primary {background-color: #f5f5f5; color: #000000; }}"
       ],
       "settings": {
         "full_width": true,
@@ -65,9 +65,9 @@
         "column_6iGigA": {
           "type": "column",
           "settings": {
-            "icon": "users",
+            "icon": "home",
             "heading": "",
-            "text": "<ul><li>Für Tagungen</li><li>Für Seminare</li><li>Für Firmenfeiern</li><li>Für Teambuilding-Veranstaltungen</li></ul>",
+            "text": "<p>Schließen Sie das Hoftor hinter sich – und genießen Sie absolute Privatsphäre. Perfekt für intensive Gespräche, offenes Feedback und Teambuilding in inspirierender Umgebung.</p><ul><li>Für Tagungen</li><li>Für Seminare</li><li>Für Firmenfeiern</li><li>Für Teambuilding-Veranstaltungen</li></ul>",
             "show_button": false,
             "button_label": "",
             "button_link": "",
@@ -80,11 +80,56 @@
         "column_k3ANm9": {
           "type": "column",
           "settings": {
-            "icon": "home",
+            "icon": "users",
             "heading": "",
             "text": "<ul><li>Firmenevents auf Anfrage für Max. 40 Personen</li><li>Tagungen auf Anfrage für 30-40 Personen.</li></ul>",
             "show_button": false,
             "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_np97gW": {
+          "type": "column",
+          "settings": {
+            "icon": "plane",
+            "heading": "",
+            "text": "<p>Unser Weingut liegt nur 20 Minuten südlich von Mainz, 45 Minuten vom Flughafen Frankfurt und etwa 60 Minuten von der Frankfurter Innenstadt entfernt.</p><p>Eine idyllische Lage – ruhig, aber dennoch hervorragend erreichbar.</p>",
+            "show_button": false,
+            "button_label": "Discover More",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_raPH7m": {
+          "type": "column",
+          "settings": {
+            "icon": "bottle_1",
+            "heading": "",
+            "text": "<p>Auf Wunsch organisieren wir für Sie Weinproben, Kellerführungen, Barbecues und Flammkuchenabende.</p><p>Gerne besprechen wir auch weitere individuelle Möglichkeiten, um Ihr Event ganz nach Ihren Vorstellungen zu gestalten.</p>",
+            "show_button": false,
+            "button_label": "Discover More",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_rDFf3X": {
+          "type": "column",
+          "settings": {
+            "icon": "clipboard_2",
+            "heading": "",
+            "text": "<p>Beamer, Flipchart, Stifte und Schreibblöcke stehen selbstverständlich bereit.<br/></p><p>Für entspannte oder auch lebhafte Momente danach sorgen Billardtisch, Kicker und Dartboard – ideal, um den Tag in geselliger Atmosphäre ausklingen zu lassen.</p>",
+            "show_button": false,
+            "button_label": "Discover More",
             "button_link": "",
             "button_style": "primary",
             "full_link": false,
@@ -96,7 +141,10 @@
       "block_order": [
         "column_DGyqYD",
         "column_6iGigA",
-        "column_k3ANm9"
+        "column_k3ANm9",
+        "column_np97gW",
+        "column_raPH7m",
+        "column_rDFf3X"
       ],
       "custom_css": [],
       "settings": {
@@ -242,9 +290,9 @@
             "form_id": "700523",
             "text_color": "#202020",
             "button_background_color": "#202020",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
             "text_alignment": "center",
             "form_alignment": "center",
             "padding_top": 4,
