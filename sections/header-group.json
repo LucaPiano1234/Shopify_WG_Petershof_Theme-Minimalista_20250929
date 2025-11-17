@@ -32,13 +32,13 @@
             "show_mega_menu_1": true,
             "color_scheme_1": "background-4",
             "description_1": "",
-            "heading_1": "Unser Jahrgangspaket",
-            "image_1": "shopify://shop_images/titel.webp",
+            "heading_1": "Unser Festtagspaket",
+            "image_1": "shopify://shop_images/Festtagspaket_Banner.png",
             "overlay_opacity_1": 0.3,
             "show_button": true,
             "button_style": "primary",
             "button_label": "Jetzt bestellen",
-            "button_link": "shopify://products/weingut-petershof-jahrgangspaket-2024-25"
+            "button_link": "shopify://products/festtagspaket"
           }
         }
       },
