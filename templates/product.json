@@ -99,7 +99,7 @@
           "type": "dropdown_information",
           "settings": {
             "characteristics": false,
-            "heading": "Grußkarte hinzufügen: Machen Sie anderen eine Freude!",
+            "heading": "💌 Grußkarte hinzufügen: Machen Sie anderen eine Freude!",
             "description": "<p>Machen Sie anderen eine Freude! Fügen Sie einen persönlichen Gruß hinzu und wir versenden in Ihrem Namen direkt an Freunde, Familie und Geschäftspartner.</p>",
             "button_show": true,
             "button_label": "Karte zur Bestellung hinzufügen",
