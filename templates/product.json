@@ -1,1 +1,880 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"{{ product.metafields.custom.jahrgang.value }}"}},"title":{"type":"title","settings":{"heading_size":"h3"}},"price":{"type":"price","settings":{}},"dropdown_information_KHYb3R":{"type":"dropdown_information","settings":{"characteristics":false,"heading":"Was Sie im Glas erwartet","description":"{{ product.description }}","button_show":false,"button_label":"Button label","button_link":""}},"description":{"type":"description","disabled":true,"settings":{"description":""}},"text_with_icon_PnKBmL":{"type":"text_with_icon","settings":{"icon":"leaf_2","text":"Weine direkt vom Winzer"}},"text_with_icon_U6NWDY":{"type":"text_with_icon","settings":{"icon":"lock","text":"Verschlüsselte Bezahlung"}},"text_with_icon_Nm9pHr":{"type":"text_with_icon","settings":{"icon":"box","text":"Lieferung frei Haus ab 12 Flaschen"}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"custom_liquid_6ekr4m":{"type":"custom_liquid","settings":{"custom_liquid":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0656\/2001\/7309\/files\/Logos_Zahlunganbieter_4.png?v=1730215360\" style=\"width:500px;height:max;\">"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false,"show_quantity":true,"show_gift_card_recipient":false}},"custom_liquid_EnmDyK":{"type":"custom_liquid","settings":{"custom_liquid":""}},"dropdown_information_h6qXdC":{"type":"dropdown_information","settings":{"characteristics":false,"heading":"Grußkarte hinzufügen: Machen Sie anderen eine Freude!","description":"<p>Machen Sie anderen eine Freude! Fügen Sie einen persönlichen Gruß hinzu und wir versenden in Ihrem Namen direkt an Freunde, Familie und Geschäftspartner.<\/p><p>Mit jeder Karte, die Sie kaufen, geht ein Anteil <strong>von 0,40 € direkt an das Kinderhilfswerk UNICEF<\/strong> (im Preis bereits enthalten).<\/p>","button_show":true,"button_label":"Karte zur Bestellung hinzufügen","button_link":"shopify:\/\/products\/grusskarte"}},"complementary_jxGV8A":{"type":"complementary","disabled":true,"settings":{"color_scheme":"background-1","heading":"Fügen Sie eine UNICEF-Grußkarte mit einem persönlichen Gruß zu Ihrer Bestellung hinzu","heading_size":"h3","products_limit":4,"image_ratio":"square","image_fit":"contain","show_secondary_image":false,"show_vendor":false,"show_collection":false,"show_desc":false,"columns_mobile":"1","padding_top":"m","padding_bottom":"m"}}},"block_order":["vendor","title","price","dropdown_information_KHYb3R","description","text_with_icon_PnKBmL","text_with_icon_U6NWDY","text_with_icon_Nm9pHr","variant_picker","custom_liquid_6ekr4m","buy_buttons","custom_liquid_EnmDyK","dropdown_information_h6qXdC","complementary_jxGV8A"],"custom_css":[".product__outer--single-aside,.product__outer--static-multicolumns-aside,.product__outer--thumbs-aside,.product__outer--static-column-aside {padding-top: 0rem;}","*:focus:not(:focus-visible):not(.button--secondary):not( .localization-selector.link ) {outline: 0; box-shadow: none; opacity: 0.2;}",".product__slider-nav .swiper-button-prev,.product__slider-nav .swiper-button-next {outline: 0; box-shadow: none; opacity: 0.2;}",".product__text-icon {margin-bottom: 2rem;}",".product-form__submit {text-transform: none;}"],"settings":{"desktop_alignment":"right","mobile_alignment":"before","gallery_type":"thumbs_aside","image_fit":"contain","image_fit_modal":"contain","enable_autoheight":true,"columns_desktop":"2"}},"multicolumn_NEY8Uj":{"type":"multicolumn","blocks":{"column_jRXKFg":{"type":"column","settings":{"icon":"home","heading":"Seit über 350 Jahren und 13 Generationen im Familienbesitz.","text":"","show_button":false,"button_label":"Label","button_link":"shopify:\/\/collections\/alle-weine","button_style":"primary","full_link":false,"additional_text_1":"","additional_text_2":""}},"column_LDAiTX":{"type":"column","settings":{"icon":"bottle_2","heading":"Rheinhessische Klassiker und spannende Newcomer","text":"","show_button":false,"button_label":"Label","button_link":"shopify:\/\/collections\/alle-weine","button_style":"primary","full_link":false,"additional_text_1":"","additional_text_2":""}},"column_jqxBaL":{"type":"column","settings":{"icon":"star","heading":"Vielfach ausgezeichnete und prämierte Weine!","text":"","show_button":false,"button_label":"","button_link":"shopify:\/\/collections\/pramierte-weine","button_style":"primary","full_link":false,"additional_text_1":"","additional_text_2":""}},"column_X6jhxg":{"type":"column","settings":{"icon":"map_pin","heading":"Traumhaftes Gästehaus","text":"<p>Ihr „Home away from home“<\/p>","show_button":false,"button_label":"","button_link":"shopify:\/\/pages\/petershof-mieten","button_style":"primary","full_link":true,"additional_text_1":"","additional_text_2":""}}},"block_order":["column_jRXKFg","column_LDAiTX","column_jqxBaL","column_X6jhxg"],"settings":{"section_type":"solid","color_scheme":"background-3","multicolumn_to_show":4,"heading":"","heading_size":"h3","image_width":"small","image_ratio":"portrait","object_fit":"cover","swipe_on_mobile":true,"card_heading_size":"h5","padding_top":"s","padding_bottom":"s"}},"gallery_with_text_EAXFL7":{"type":"gallery-with-text","blocks":{"featured_gallery_hce7EP":{"type":"featured_gallery","settings":{"image":"shopify:\/\/shop_images\/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg","show_video":false,"overlay_opacity":0.2,"text_color_scheme":"background-4","subheading":"Wein, Musik und Genuss am Weingut","title":"Save the Date: PETERSHOF Hoffest am 27. April","heading_size":"h1","text":"Sichern Sie sich Ihren Platz! Melden Sie sich bis zum 24. April bei uns an!","show_button":true,"button_label":"Platz sichern","button_link":"shopify:\/\/pages\/kontakt","button_style":"secondary","card_active":false}}},"block_order":["featured_gallery_hce7EP"],"disabled":true,"settings":{"subheading":"","heading":"","heading_size":"h2","aspect_ratio":"21\/9","full_width":false,"padding_top":"s","padding_bottom":"no-indent"}},"carousel_MDprtq":{"type":"carousel","blocks":{"carousel_slide_3V77iX":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg","show_video":false,"overlay_opacity":0,"text_color_scheme":"","heading":"","link":"shopify:\/\/pages\/kontakt"}}},"block_order":["carousel_slide_3V77iX"],"disabled":true,"settings":{"subheading":"Wein, Musik und Genuss am Weingut⎥Sichern Sie sich Ihren Platz! Melden Sie sich bis zum 24. April bei uns an!","heading":"Save the Date: PETERSHOF Hoffest am 27. April","heading_size":"h1","columns":1,"image_ratio":"landscape","button_show":true,"button_label":"Platz sichern","button_link":"shopify:\/\/pages\/kontakt","padding_top":"m","padding_bottom":"m"}},"collapsible_content_WF6RbC":{"type":"collapsible-content","blocks":{"accordion_TDAeVG":{"type":"accordion","settings":{"question":"Weitere Details:","answer":"{{ product.description }}<p>Alkoholgehalt: {{ product.metafields.custom.alkoholgehalt.value }}%<br\/>Qualitätsstufe: {{ product.metafields.custom.qualit_tsstufe | metafield_text }}<br\/>Jahrgang: {{ product.metafields.custom.jahrgang.value }}<br\/>Geschmacksrichtung: <\/p>{{ product.metafields.custom.geschmack | metafield_tag }}<p>Rebsorte: <\/p>{{ product.metafields.custom.rebsorte | metafield_tag }}<p>Ausbau: <\/p>{{ product.metafields.custom.ausbau | metafield_tag }}"}},"accordion_baiTBr":{"type":"accordion","settings":{"question":"Analysewerte","answer":"<p>Alkoholgehalt: {{ product.metafields.custom.alkoholgehalt.value }}%<br\/>Restzucker:<strong> <\/strong>{{ product.metafields.custom.restzucker.value }}g\/L<br\/>Säure: {{ product.metafields.custom.s_ure.value }}g\/L<\/p>"}},"accordion_FrDVpk":{"type":"accordion","disabled":true,"settings":{"question":"Nährwerte","answer":"<p>Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz<\/p>"}},"accordion_n4U9CQ":{"type":"accordion","disabled":true,"settings":{"question":"Besonders lecker zu: {{ product.metafields.custom.passt_gut_zu | metafield_text }}","answer":""}}},"block_order":["accordion_TDAeVG","accordion_baiTBr","accordion_FrDVpk","accordion_n4U9CQ"],"custom_css":[],"settings":{"subheading":"{{ product.vendor }}","heading":"{{ product.title }}","heading_size":"h2","show_button":false,"button_label":"Expertise","button_link":"{{ product.metafields.custom.expertise.value }}","button_style":"simple","padding_top":"l","padding_bottom":"m"}},"rich_text_cinL6B":{"type":"rich-text","blocks":{"button_Gqdxit":{"type":"button","settings":{"button_label":"Nährwerte","button_link":"{{ product.metafields.custom.e_label_url.value }}","button_style":"tertiary"}}},"block_order":["button_Gqdxit"],"settings":{"color_scheme":"","full_width":true,"alignment":"left","margin_top":"no-indent","margin_bottom":"s","padding_top":"no-indent","padding_bottom":"no-indent"}},"multicolumn_BkmqTV":{"type":"multicolumn","blocks":{"column_zYLYfb":{"type":"column","settings":{"icon":"none","heading":"★★★★★","text":"<p>\"Gute Auswahl an schönen Weinen in vier unterschiedlichen Qualitätsstufen - einfach zu bestellen und prompt geliefert.Mein Alltagsfavorit: Der Acolon.\"<\/p>","show_button":false,"button_label":"","button_link":"","button_style":"primary","full_link":false,"additional_text_1":"Ralf","additional_text_2":"Google"}},"column_ihHTea":{"type":"column","settings":{"icon":"none","heading":"★★★★★","text":"<p>\"Einfach nur toll<br\/>Nicht nur die Weine vor allem auch der Service\"<\/p>","show_button":false,"button_label":"","button_link":"","button_style":"primary","full_link":false,"additional_text_1":"Otmar","additional_text_2":"Google"}},"column_48cJ7N":{"type":"column","settings":{"icon":"none","heading":"★★★★★","text":"<p>\"Hatten eine schöne Weinverkostung liebe nette Leute und soo leckere Weine.<br\/>Die Ferienwohnung ist geschmackvoll eingerichtet.\"<\/p>","show_button":false,"button_label":"","button_link":"","button_style":"primary","full_link":false,"additional_text_1":"Thomas","additional_text_2":"Google"}}},"block_order":["column_zYLYfb","column_ihHTea","column_48cJ7N"],"settings":{"section_type":"separators","color_scheme":"background-3","multicolumn_to_show":3,"heading":"Das sagen unsere Kundinnen und Kunden:","heading_size":"h2","image_width":"medium","image_ratio":"portrait","object_fit":"cover","swipe_on_mobile":true,"card_heading_size":"h4","padding_top":"m","padding_bottom":"m"}},"product-recommendations":{"type":"product-recommendations","custom_css":[".card-information__group {align-items: center;}"],"settings":{"color_scheme":"background-2","heading":"Das könnte Ihnen auch schmecken:","heading_size":"h2","products_limit":6,"image_ratio":"square","image_fit":"contain","show_secondary_image":true,"show_vendor":false,"show_collection":false,"show_desc":false,"columns_mobile":"2","padding_top":"m","padding_bottom":"xl"}},"media_slideshow_wtArCJ":{"type":"media-slideshow","blocks":{"media_slide_WVqNbY":{"type":"media_slide","settings":{"text_color_scheme":"","overlay_opacity":0,"enable_hover":true,"show_video":true,"video_url":"https:\/\/www.youtube.com\/watch?v=LoXpZdgZW60","autoplay_video":true,"muted_video":true,"loop_video":true,"show_icon_play":true,"show_icon_sound":true,"description_video":"","subheading":"","heading":"","heading_size":"h2","description":"","additional_image_width":150,"position_content":"bottom","show_button":false,"button_label":"","button_link":"","button_style":"secondary","full_link":false}}},"block_order":["media_slide_WVqNbY"],"settings":{"header_overlay":true,"layout":"full","full":false,"gap":false,"border_radius":false,"aspect_ratio":"adapt","bullets_color_scheme":"","position_bullets":"right","bullets_background":false,"enable_navigation":false,"navigation_color_scheme":"","navigation_position":"sides","padding_top":"no-indent","padding_bottom":"m"}},"rich_text_ibYeLf":{"type":"rich-text","blocks":{"subheading_nFkHjX":{"type":"subheading","settings":{"subheading":"Petershof | Weingut"}},"heading_m7VNrn":{"type":"heading","settings":{"heading":"Unser Sortiment","heading_size":"medium"}}},"block_order":["subheading_nFkHjX","heading_m7VNrn"],"settings":{"color_scheme":"","full_width":true,"alignment":"left","margin_top":"no-indent","margin_bottom":"no-indent","padding_top":"m","padding_bottom":"m"}},"carousel_hQcqnL":{"type":"carousel","blocks":{"carousel_slide_KjrCrG":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/9Merlot.png","show_video":false,"overlay_opacity":0.3,"text_color_scheme":"background-4","heading":"Alle Weine","link":"shopify:\/\/collections\/alle-weine"}},"carousel_slide_RrnxYH":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/Weissburgunder-Chardonnay.png","show_video":false,"overlay_opacity":0.3,"text_color_scheme":"background-4","heading":"Weißweine","link":"shopify:\/\/collections\/weissweine"}},"carousel_slide_DTYUKV":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/11Rose-geht-immer_Front_28e414d2-cbf0-4630-9578-ca6a73748eea.png","show_video":false,"overlay_opacity":0.3,"text_color_scheme":"background-4","heading":"Rosé","link":"shopify:\/\/collections\/rose"}},"carousel_slide_NRhPFE":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/Spaetburgunder.png","show_video":false,"overlay_opacity":0.3,"text_color_scheme":"background-4","heading":"Rotweine","link":"shopify:\/\/collections\/rotweine"}},"carousel_slide_btJ8bY":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/Riesling-Sekt.png","show_video":false,"overlay_opacity":0.3,"text_color_scheme":"background-4","heading":"Sekte & Perlweine","link":"shopify:\/\/collections\/perlwein"}},"carousel_slide_RYjKE6":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/WeingutPetershofGrilpaket.png","show_video":false,"overlay_opacity":0.3,"text_color_scheme":"background-4","heading":"Weinpakete","link":"shopify:\/\/collections\/weinpakete-1"}},"carousel_slide_NW4jjG":{"type":"carousel_slide","settings":{"image":"shopify:\/\/shop_images\/Petershof_TresterbrandFront_7eac1c5d-d14e-4203-86a0-2cc732d0449a.png","show_video":false,"overlay_opacity":0.3,"text_color_scheme":"background-4","heading":"Spirituosen","link":"shopify:\/\/collections\/spirituosen"}}},"block_order":["carousel_slide_KjrCrG","carousel_slide_RrnxYH","carousel_slide_DTYUKV","carousel_slide_NRhPFE","carousel_slide_btJ8bY","carousel_slide_RYjKE6","carousel_slide_NW4jjG"],"settings":{"subheading":"","heading":"","heading_size":"h2","columns":4,"image_ratio":"portrait","button_show":false,"button_label":"Button label","button_link":"","padding_top":"no-indent","padding_bottom":"xl"}},"categories_list_4NHgwM":{"type":"categories-list","blocks":{"collection_item_cqkJ3B":{"type":"collection_item","settings":{"collection":"alle-weine","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_ja9mF4":{"type":"collection_item","settings":{"collection":"weissweine","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_JTfQdK":{"type":"collection_item","settings":{"collection":"rose","color_scheme":"background-2","color_scheme_2":"background-4","show_video":false,"overlay_opacity":0.4}},"collection_item_6FzUzM":{"type":"collection_item","settings":{"collection":"rotweine","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_fgUeBR":{"type":"collection_item","settings":{"collection":"buchstabenlinie","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_Yd96Dm":{"type":"collection_item","settings":{"collection":"spirituosen","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}},"collection_item_jH3dhD":{"type":"collection_item","settings":{"collection":"perlwein","color_scheme":"background-2","color_scheme_2":"background-4","show_video":false,"overlay_opacity":0.4}},"collection_item_wGBRec":{"type":"collection_item","settings":{"collection":"weinpakete-1","color_scheme":"","color_scheme_2":"","show_video":false,"overlay_opacity":0.4}}},"block_order":["collection_item_cqkJ3B","collection_item_ja9mF4","collection_item_JTfQdK","collection_item_6FzUzM","collection_item_fgUeBR","collection_item_Yd96Dm","collection_item_jH3dhD","collection_item_wGBRec"],"disabled":true,"custom_css":[".categories-list__wrapper--columns .categories-list__item {min-height: 50rem;}",".categories-list__image img,.categories-list__image svg.placeholder-svg {width: 75%; height: 100%%; object-fit: scale-down;}"],"settings":{"subheading":"Petershof | Weingut","heading":"Unser Sortiment","heading_size":"h2","layout":"columns","collections_to_show":4,"show_button":true,"button_label":"Explore All","button_link":"","padding_top":"m","padding_bottom":"m"}},"lookbook_hzjg6b":{"type":"lookbook","blocks":{"lookbook_text_zKAide":{"type":"lookbook_text","settings":{"color_scheme":"","text_position":"bottom","subheading":"Petershof","heading":"Über uns","heading_size":"h2","text":"Wir betreiben Weinbau aus Tradition und Leidenschaft! Seit über 350 Jahren und 13 Generationen befindet sich der PETERSHOF im Familienbesitz. Seit 2010 bestimmen wir, Stefan und Johanna Kuhn, die Geschicke des PETERSHOFS. ","bottom_image_width":150,"button_show":true,"button_label":"Über uns","button_link":"shopify:\/\/pages\/uber-uns","button_style":"primary"}},"lookbook_image_WWXLFa":{"type":"lookbook_image","settings":{"image":"shopify:\/\/shop_images\/WeingutPetershof199_1.jpg"}},"lookbook_text_w6WAGA":{"type":"lookbook_text","settings":{"color_scheme":"background-3","text_position":"center","subheading":"","heading":"Unsere Weine","heading_size":"h2","text":"Wir setzen bewusst auf höchste Qualität, zu erschwinglichen Preisen. User Ziel ist es, Top Weine „für jeden Tag“ zu kreieren. Dies beginnt mit der Auswahl der Rebsorten, setzt sich in akribischer Pflege der Weinberge fort und endet mit der Kellerarbeit, bis die Weine auf der Flasche sind. Ohne unsere großartigen Mitarbeiter wäre alles nichts. Unser Team ist unser wichtigstes Kapital.","bottom_image_width":150,"button_show":true,"button_label":"Unsere Weine","button_link":"shopify:\/\/collections\/alle-weine","button_style":"primary"}},"lookbook_image_LMqzE7":{"type":"lookbook_image","settings":{"image":"shopify:\/\/shop_images\/WeingutPetershof225_1.jpg"}},"lookbook_text_8HyyVN":{"type":"lookbook_text","settings":{"color_scheme":"","text_position":"center","subheading":"Petershof","heading":"Unser Team","heading_size":"h2","text":"Wir sind ein Familienweingut und arbeiten mit einem kleinen Team. Das heißt, bei uns erfahren Sie immer eine persönliche Betreuung, egal ob vor Ort oder telefonisch\/per E-Mail. Und Sie wissen immer, mit wem Sie sprechen! Sie kennen uns meist sogar persönlich und wir behalten Sie in bleibender Erinnerung.","bottom_image_width":150,"button_show":false,"button_label":"Button label","button_link":"","button_style":"primary"}},"lookbook_image_MViaQW":{"type":"lookbook_image","settings":{"image":"shopify:\/\/shop_images\/WeingutPetershof054_1.jpg"}}},"block_order":["lookbook_text_zKAide","lookbook_image_WWXLFa","lookbook_text_w6WAGA","lookbook_image_LMqzE7","lookbook_text_8HyyVN","lookbook_image_MViaQW"],"settings":{"subheading":"","heading":"","heading_size":"h2","margin_top":"xl","margin_bottom":"m"}}},"order":["main","multicolumn_NEY8Uj","gallery_with_text_EAXFL7","carousel_MDprtq","collapsible_content_WF6RbC","rich_text_cinL6B","multicolumn_BkmqTV","product-recommendations","media_slideshow_wtArCJ","rich_text_ibYeLf","carousel_hQcqnL","categories_list_4NHgwM","lookbook_hzjg6b"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.jahrgang.value }}"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h3"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "dropdown_information_KHYb3R": {
+          "type": "dropdown_information",
+          "settings": {
+            "characteristics": false,
+            "heading": "Was Sie im Glas erwartet",
+            "description": "{{ product.description }}",
+            "button_show": false,
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "description": ""
+          }
+        },
+        "text_with_icon_PnKBmL": {
+          "type": "text_with_icon",
+          "settings": {
+            "icon": "leaf_2",
+            "text": "Weine direkt vom Winzer"
+          }
+        },
+        "text_with_icon_U6NWDY": {
+          "type": "text_with_icon",
+          "settings": {
+            "icon": "lock",
+            "text": "Verschlüsselte Bezahlung"
+          }
+        },
+        "text_with_icon_Nm9pHr": {
+          "type": "text_with_icon",
+          "settings": {
+            "icon": "box",
+            "text": "Lieferung frei Haus ab 12 Flaschen"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "custom_liquid_6ekr4m": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0656/2001/7309/files/Logos_Zahlunganbieter_4.png?v=1730215360\" style=\"width:500px;height:max;\">"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_quantity": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_EnmDyK": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
+        "dropdown_information_h6qXdC": {
+          "type": "dropdown_information",
+          "settings": {
+            "characteristics": false,
+            "heading": "Grußkarte hinzufügen: Machen Sie anderen eine Freude!",
+            "description": "<p>Machen Sie anderen eine Freude! Fügen Sie einen persönlichen Gruß hinzu und wir versenden in Ihrem Namen direkt an Freunde, Familie und Geschäftspartner.</p><p>Mit jeder Karte, die Sie kaufen, geht ein Anteil <strong>von 0,40 € direkt an das Kinderhilfswerk UNICEF</strong> (im Preis bereits enthalten).</p>",
+            "button_show": true,
+            "button_label": "Karte zur Bestellung hinzufügen",
+            "button_link": "shopify://products/unicef-grusskarte"
+          }
+        },
+        "complementary_jxGV8A": {
+          "type": "complementary",
+          "disabled": true,
+          "settings": {
+            "color_scheme": "background-1",
+            "heading": "Fügen Sie eine UNICEF-Grußkarte mit einem persönlichen Gruß zu Ihrer Bestellung hinzu",
+            "heading_size": "h3",
+            "products_limit": 4,
+            "image_ratio": "square",
+            "image_fit": "contain",
+            "show_secondary_image": false,
+            "show_vendor": false,
+            "show_collection": false,
+            "show_desc": false,
+            "columns_mobile": "1",
+            "padding_top": "m",
+            "padding_bottom": "m"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "dropdown_information_KHYb3R",
+        "description",
+        "text_with_icon_PnKBmL",
+        "text_with_icon_U6NWDY",
+        "text_with_icon_Nm9pHr",
+        "variant_picker",
+        "custom_liquid_6ekr4m",
+        "buy_buttons",
+        "custom_liquid_EnmDyK",
+        "dropdown_information_h6qXdC",
+        "complementary_jxGV8A"
+      ],
+      "custom_css": [
+        ".product__outer--single-aside,.product__outer--static-multicolumns-aside,.product__outer--thumbs-aside,.product__outer--static-column-aside {padding-top: 0rem;}",
+        "*:focus:not(:focus-visible):not(.button--secondary):not( .localization-selector.link ) {outline: 0; box-shadow: none; opacity: 0.2;}",
+        ".product__slider-nav .swiper-button-prev,.product__slider-nav .swiper-button-next {outline: 0; box-shadow: none; opacity: 0.2;}",
+        ".product__text-icon {margin-bottom: 2rem;}",
+        ".product-form__submit {text-transform: none;}"
+      ],
+      "settings": {
+        "desktop_alignment": "right",
+        "mobile_alignment": "before",
+        "gallery_type": "thumbs_aside",
+        "image_fit": "contain",
+        "image_fit_modal": "contain",
+        "enable_autoheight": true,
+        "columns_desktop": "2"
+      }
+    },
+    "multicolumn_NEY8Uj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jRXKFg": {
+          "type": "column",
+          "settings": {
+            "icon": "home",
+            "heading": "Seit über 350 Jahren und 13 Generationen im Familienbesitz.",
+            "text": "",
+            "show_button": false,
+            "button_label": "Label",
+            "button_link": "shopify://collections/alle-weine",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_LDAiTX": {
+          "type": "column",
+          "settings": {
+            "icon": "bottle_2",
+            "heading": "Rheinhessische Klassiker und spannende Newcomer",
+            "text": "",
+            "show_button": false,
+            "button_label": "Label",
+            "button_link": "shopify://collections/alle-weine",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_jqxBaL": {
+          "type": "column",
+          "settings": {
+            "icon": "star",
+            "heading": "Vielfach ausgezeichnete und prämierte Weine!",
+            "text": "",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "shopify://collections/pramierte-weine",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        },
+        "column_X6jhxg": {
+          "type": "column",
+          "settings": {
+            "icon": "map_pin",
+            "heading": "Traumhaftes Gästehaus",
+            "text": "<p>Ihr „Home away from home“</p>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "shopify://pages/petershof-mieten",
+            "button_style": "primary",
+            "full_link": true,
+            "additional_text_1": "",
+            "additional_text_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jRXKFg",
+        "column_LDAiTX",
+        "column_jqxBaL",
+        "column_X6jhxg"
+      ],
+      "settings": {
+        "section_type": "solid",
+        "color_scheme": "background-3",
+        "multicolumn_to_show": 4,
+        "heading": "",
+        "heading_size": "h3",
+        "image_width": "small",
+        "image_ratio": "portrait",
+        "object_fit": "cover",
+        "swipe_on_mobile": true,
+        "card_heading_size": "h5",
+        "padding_top": "s",
+        "padding_bottom": "s"
+      }
+    },
+    "gallery_with_text_EAXFL7": {
+      "type": "gallery-with-text",
+      "blocks": {
+        "featured_gallery_hce7EP": {
+          "type": "featured_gallery",
+          "settings": {
+            "image": "shopify://shop_images/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg",
+            "show_video": false,
+            "overlay_opacity": 0.2,
+            "text_color_scheme": "background-4",
+            "subheading": "Wein, Musik und Genuss am Weingut",
+            "title": "Save the Date: PETERSHOF Hoffest am 27. April",
+            "heading_size": "h1",
+            "text": "Sichern Sie sich Ihren Platz! Melden Sie sich bis zum 24. April bei uns an!",
+            "show_button": true,
+            "button_label": "Platz sichern",
+            "button_link": "shopify://pages/kontakt",
+            "button_style": "secondary",
+            "card_active": false
+          }
+        }
+      },
+      "block_order": [
+        "featured_gallery_hce7EP"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "aspect_ratio": "21/9",
+        "full_width": false,
+        "padding_top": "s",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "carousel_MDprtq": {
+      "type": "carousel",
+      "blocks": {
+        "carousel_slide_3V77iX": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/20241025_Weingut_Petershof_Ads_Weihnachten_5.jpg",
+            "show_video": false,
+            "overlay_opacity": 0,
+            "text_color_scheme": "",
+            "heading": "",
+            "link": "shopify://pages/kontakt"
+          }
+        }
+      },
+      "block_order": [
+        "carousel_slide_3V77iX"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Wein, Musik und Genuss am Weingut⎥Sichern Sie sich Ihren Platz! Melden Sie sich bis zum 24. April bei uns an!",
+        "heading": "Save the Date: PETERSHOF Hoffest am 27. April",
+        "heading_size": "h1",
+        "columns": 1,
+        "image_ratio": "landscape",
+        "button_show": true,
+        "button_label": "Platz sichern",
+        "button_link": "shopify://pages/kontakt",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "collapsible_content_WF6RbC": {
+      "type": "collapsible-content",
+      "blocks": {
+        "accordion_TDAeVG": {
+          "type": "accordion",
+          "settings": {
+            "question": "Weitere Details:",
+            "answer": "{{ product.description }}<p>Alkoholgehalt: {{ product.metafields.custom.alkoholgehalt.value }}%<br/>Qualitätsstufe: {{ product.metafields.custom.qualit_tsstufe | metafield_text }}<br/>Jahrgang: {{ product.metafields.custom.jahrgang.value }}<br/>Geschmacksrichtung: </p>{{ product.metafields.custom.geschmack | metafield_tag }}<p>Rebsorte: </p>{{ product.metafields.custom.rebsorte | metafield_tag }}<p>Ausbau: </p>{{ product.metafields.custom.ausbau | metafield_tag }}"
+          }
+        },
+        "accordion_baiTBr": {
+          "type": "accordion",
+          "settings": {
+            "question": "Analysewerte",
+            "answer": "<p>Alkoholgehalt: {{ product.metafields.custom.alkoholgehalt.value }}%<br/>Restzucker:<strong> </strong>{{ product.metafields.custom.restzucker.value }}g/L<br/>Säure: {{ product.metafields.custom.s_ure.value }}g/L</p>"
+          }
+        },
+        "accordion_FrDVpk": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "question": "Nährwerte",
+            "answer": "<p>Enthält geringfügige Mengen von Fett, gesättigten Fettsäuren, Eiweiß und Salz</p>"
+          }
+        },
+        "accordion_n4U9CQ": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "question": "Besonders lecker zu: {{ product.metafields.custom.passt_gut_zu | metafield_text }}",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "accordion_TDAeVG",
+        "accordion_baiTBr",
+        "accordion_FrDVpk",
+        "accordion_n4U9CQ"
+      ],
+      "custom_css": [],
+      "settings": {
+        "subheading": "{{ product.vendor }}",
+        "heading": "{{ product.title }}",
+        "heading_size": "h2",
+        "show_button": false,
+        "button_label": "Expertise",
+        "button_link": "{{ product.metafields.custom.expertise.value }}",
+        "button_style": "simple",
+        "padding_top": "l",
+        "padding_bottom": "m"
+      }
+    },
+    "rich_text_cinL6B": {
+      "type": "rich-text",
+      "blocks": {
+        "button_Gqdxit": {
+          "type": "button",
+          "settings": {
+            "button_label": "Nährwerte",
+            "button_link": "{{ product.metafields.custom.e_label_url.value }}",
+            "button_style": "tertiary"
+          }
+        }
+      },
+      "block_order": [
+        "button_Gqdxit"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "alignment": "left",
+        "margin_top": "no-indent",
+        "margin_bottom": "s",
+        "padding_top": "no-indent",
+        "padding_bottom": "no-indent"
+      }
+    },
+    "multicolumn_BkmqTV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zYLYfb": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "heading": "★★★★★",
+            "text": "<p>\"Gute Auswahl an schönen Weinen in vier unterschiedlichen Qualitätsstufen - einfach zu bestellen und prompt geliefert.Mein Alltagsfavorit: Der Acolon.\"</p>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "Ralf",
+            "additional_text_2": "Google"
+          }
+        },
+        "column_ihHTea": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "heading": "★★★★★",
+            "text": "<p>\"Einfach nur toll<br/>Nicht nur die Weine vor allem auch der Service\"</p>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "Otmar",
+            "additional_text_2": "Google"
+          }
+        },
+        "column_48cJ7N": {
+          "type": "column",
+          "settings": {
+            "icon": "none",
+            "heading": "★★★★★",
+            "text": "<p>\"Hatten eine schöne Weinverkostung liebe nette Leute und soo leckere Weine.<br/>Die Ferienwohnung ist geschmackvoll eingerichtet.\"</p>",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "full_link": false,
+            "additional_text_1": "Thomas",
+            "additional_text_2": "Google"
+          }
+        }
+      },
+      "block_order": [
+        "column_zYLYfb",
+        "column_ihHTea",
+        "column_48cJ7N"
+      ],
+      "settings": {
+        "section_type": "separators",
+        "color_scheme": "background-3",
+        "multicolumn_to_show": 3,
+        "heading": "Das sagen unsere Kundinnen und Kunden:",
+        "heading_size": "h2",
+        "image_width": "medium",
+        "image_ratio": "portrait",
+        "object_fit": "cover",
+        "swipe_on_mobile": true,
+        "card_heading_size": "h4",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "custom_css": [
+        ".card-information__group {align-items: center;}"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "heading": "Das könnte Ihnen auch schmecken:",
+        "heading_size": "h2",
+        "products_limit": 6,
+        "image_ratio": "square",
+        "image_fit": "contain",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_collection": false,
+        "show_desc": false,
+        "columns_mobile": "2",
+        "padding_top": "m",
+        "padding_bottom": "xl"
+      }
+    },
+    "media_slideshow_wtArCJ": {
+      "type": "media-slideshow",
+      "blocks": {
+        "media_slide_WVqNbY": {
+          "type": "media_slide",
+          "settings": {
+            "text_color_scheme": "",
+            "overlay_opacity": 0,
+            "enable_hover": true,
+            "show_video": true,
+            "video_url": "https://www.youtube.com/watch?v=LoXpZdgZW60",
+            "autoplay_video": true,
+            "muted_video": true,
+            "loop_video": true,
+            "show_icon_play": true,
+            "show_icon_sound": true,
+            "description_video": "",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h2",
+            "description": "",
+            "additional_image_width": 150,
+            "position_content": "bottom",
+            "show_button": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "secondary",
+            "full_link": false
+          }
+        }
+      },
+      "block_order": [
+        "media_slide_WVqNbY"
+      ],
+      "settings": {
+        "header_overlay": true,
+        "layout": "full",
+        "full": false,
+        "gap": false,
+        "border_radius": false,
+        "aspect_ratio": "adapt",
+        "bullets_color_scheme": "",
+        "position_bullets": "right",
+        "bullets_background": false,
+        "enable_navigation": false,
+        "navigation_color_scheme": "",
+        "navigation_position": "sides",
+        "padding_top": "no-indent",
+        "padding_bottom": "m"
+      }
+    },
+    "rich_text_ibYeLf": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_nFkHjX": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Petershof | Weingut"
+          }
+        },
+        "heading_m7VNrn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unser Sortiment",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nFkHjX",
+        "heading_m7VNrn"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "alignment": "left",
+        "margin_top": "no-indent",
+        "margin_bottom": "no-indent",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "carousel_hQcqnL": {
+      "type": "carousel",
+      "blocks": {
+        "carousel_slide_KjrCrG": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/9Merlot.png",
+            "show_video": false,
+            "overlay_opacity": 0.3,
+            "text_color_scheme": "background-4",
+            "heading": "Alle Weine",
+            "link": "shopify://collections/alle-weine"
+          }
+        },
+        "carousel_slide_RrnxYH": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/Weissburgunder-Chardonnay.png",
+            "show_video": false,
+            "overlay_opacity": 0.3,
+            "text_color_scheme": "background-4",
+            "heading": "Weißweine",
+            "link": "shopify://collections/weissweine"
+          }
+        },
+        "carousel_slide_DTYUKV": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/11Rose-geht-immer_Front_28e414d2-cbf0-4630-9578-ca6a73748eea.png",
+            "show_video": false,
+            "overlay_opacity": 0.3,
+            "text_color_scheme": "background-4",
+            "heading": "Rosé",
+            "link": "shopify://collections/rose"
+          }
+        },
+        "carousel_slide_NRhPFE": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/Spaetburgunder.png",
+            "show_video": false,
+            "overlay_opacity": 0.3,
+            "text_color_scheme": "background-4",
+            "heading": "Rotweine",
+            "link": "shopify://collections/rotweine"
+          }
+        },
+        "carousel_slide_btJ8bY": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/Riesling-Sekt.png",
+            "show_video": false,
+            "overlay_opacity": 0.3,
+            "text_color_scheme": "background-4",
+            "heading": "Sekte & Perlweine",
+            "link": "shopify://collections/perlwein"
+          }
+        },
+        "carousel_slide_RYjKE6": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershofGrilpaket.png",
+            "show_video": false,
+            "overlay_opacity": 0.3,
+            "text_color_scheme": "background-4",
+            "heading": "Weinpakete",
+            "link": "shopify://collections/weinpakete-1"
+          }
+        },
+        "carousel_slide_NW4jjG": {
+          "type": "carousel_slide",
+          "settings": {
+            "image": "shopify://shop_images/Petershof_TresterbrandFront_7eac1c5d-d14e-4203-86a0-2cc732d0449a.png",
+            "show_video": false,
+            "overlay_opacity": 0.3,
+            "text_color_scheme": "background-4",
+            "heading": "Spirituosen",
+            "link": "shopify://collections/spirituosen"
+          }
+        }
+      },
+      "block_order": [
+        "carousel_slide_KjrCrG",
+        "carousel_slide_RrnxYH",
+        "carousel_slide_DTYUKV",
+        "carousel_slide_NRhPFE",
+        "carousel_slide_btJ8bY",
+        "carousel_slide_RYjKE6",
+        "carousel_slide_NW4jjG"
+      ],
+      "settings": {
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "columns": 4,
+        "image_ratio": "portrait",
+        "button_show": false,
+        "button_label": "Button label",
+        "button_link": "",
+        "padding_top": "no-indent",
+        "padding_bottom": "xl"
+      }
+    },
+    "categories_list_4NHgwM": {
+      "type": "categories-list",
+      "blocks": {
+        "collection_item_cqkJ3B": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "alle-weine",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_ja9mF4": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "weissweine",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_JTfQdK": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "rose",
+            "color_scheme": "background-2",
+            "color_scheme_2": "background-4",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_6FzUzM": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "rotweine",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_fgUeBR": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "buchstabenlinie",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_Yd96Dm": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "spirituosen",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_jH3dhD": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "perlwein",
+            "color_scheme": "background-2",
+            "color_scheme_2": "background-4",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        },
+        "collection_item_wGBRec": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "weinpakete-1",
+            "color_scheme": "",
+            "color_scheme_2": "",
+            "show_video": false,
+            "overlay_opacity": 0.4
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_cqkJ3B",
+        "collection_item_ja9mF4",
+        "collection_item_JTfQdK",
+        "collection_item_6FzUzM",
+        "collection_item_fgUeBR",
+        "collection_item_Yd96Dm",
+        "collection_item_jH3dhD",
+        "collection_item_wGBRec"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".categories-list__wrapper--columns .categories-list__item {min-height: 50rem;}",
+        ".categories-list__image img,.categories-list__image svg.placeholder-svg {width: 75%; height: 100%%; object-fit: scale-down;}"
+      ],
+      "settings": {
+        "subheading": "Petershof | Weingut",
+        "heading": "Unser Sortiment",
+        "heading_size": "h2",
+        "layout": "columns",
+        "collections_to_show": 4,
+        "show_button": true,
+        "button_label": "Explore All",
+        "button_link": "",
+        "padding_top": "m",
+        "padding_bottom": "m"
+      }
+    },
+    "lookbook_hzjg6b": {
+      "type": "lookbook",
+      "blocks": {
+        "lookbook_text_zKAide": {
+          "type": "lookbook_text",
+          "settings": {
+            "color_scheme": "",
+            "text_position": "bottom",
+            "subheading": "Petershof",
+            "heading": "Über uns",
+            "heading_size": "h2",
+            "text": "Wir betreiben Weinbau aus Tradition und Leidenschaft! Seit über 350 Jahren und 13 Generationen befindet sich der PETERSHOF im Familienbesitz. Seit 2010 bestimmen wir, Stefan und Johanna Kuhn, die Geschicke des PETERSHOFS. ",
+            "bottom_image_width": 150,
+            "button_show": true,
+            "button_label": "Über uns",
+            "button_link": "shopify://pages/uber-uns",
+            "button_style": "primary"
+          }
+        },
+        "lookbook_image_WWXLFa": {
+          "type": "lookbook_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof199_1.jpg"
+          }
+        },
+        "lookbook_text_w6WAGA": {
+          "type": "lookbook_text",
+          "settings": {
+            "color_scheme": "background-3",
+            "text_position": "center",
+            "subheading": "",
+            "heading": "Unsere Weine",
+            "heading_size": "h2",
+            "text": "Wir setzen bewusst auf höchste Qualität, zu erschwinglichen Preisen. User Ziel ist es, Top Weine „für jeden Tag“ zu kreieren. Dies beginnt mit der Auswahl der Rebsorten, setzt sich in akribischer Pflege der Weinberge fort und endet mit der Kellerarbeit, bis die Weine auf der Flasche sind. Ohne unsere großartigen Mitarbeiter wäre alles nichts. Unser Team ist unser wichtigstes Kapital.",
+            "bottom_image_width": 150,
+            "button_show": true,
+            "button_label": "Unsere Weine",
+            "button_link": "shopify://collections/alle-weine",
+            "button_style": "primary"
+          }
+        },
+        "lookbook_image_LMqzE7": {
+          "type": "lookbook_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof225_1.jpg"
+          }
+        },
+        "lookbook_text_8HyyVN": {
+          "type": "lookbook_text",
+          "settings": {
+            "color_scheme": "",
+            "text_position": "center",
+            "subheading": "Petershof",
+            "heading": "Unser Team",
+            "heading_size": "h2",
+            "text": "Wir sind ein Familienweingut und arbeiten mit einem kleinen Team. Das heißt, bei uns erfahren Sie immer eine persönliche Betreuung, egal ob vor Ort oder telefonisch/per E-Mail. Und Sie wissen immer, mit wem Sie sprechen! Sie kennen uns meist sogar persönlich und wir behalten Sie in bleibender Erinnerung.",
+            "bottom_image_width": 150,
+            "button_show": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        },
+        "lookbook_image_MViaQW": {
+          "type": "lookbook_image",
+          "settings": {
+            "image": "shopify://shop_images/WeingutPetershof054_1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "lookbook_text_zKAide",
+        "lookbook_image_WWXLFa",
+        "lookbook_text_w6WAGA",
+        "lookbook_image_LMqzE7",
+        "lookbook_text_8HyyVN",
+        "lookbook_image_MViaQW"
+      ],
+      "settings": {
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h2",
+        "margin_top": "xl",
+        "margin_bottom": "m"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_NEY8Uj",
+    "gallery_with_text_EAXFL7",
+    "carousel_MDprtq",
+    "collapsible_content_WF6RbC",
+    "rich_text_cinL6B",
+    "multicolumn_BkmqTV",
+    "product-recommendations",
+    "media_slideshow_wtArCJ",
+    "rich_text_ibYeLf",
+    "carousel_hQcqnL",
+    "categories_list_4NHgwM",
+    "lookbook_hzjg6b"
+  ]
+}
