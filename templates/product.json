@@ -103,7 +103,7 @@
             "description": "<p>Machen Sie anderen eine Freude! Fügen Sie einen persönlichen Gruß hinzu und wir versenden in Ihrem Namen direkt an Freunde, Familie und Geschäftspartner.</p><p>Mit jeder Karte, die Sie kaufen, geht ein Anteil <strong>von 0,40 € direkt an das Kinderhilfswerk UNICEF</strong> (im Preis bereits enthalten).</p>",
             "button_show": true,
             "button_label": "Karte zur Bestellung hinzufügen",
-            "button_link": "shopify://products/grusskarte"
+            "button_link": "shopify://products/unicef-grusskarte"
           }
         },
         "complementary_jxGV8A": {
